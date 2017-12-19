@@ -1,0 +1,1519 @@
+---------------------------------------------------------------
+[ 2017-12-11T00:05:35+08:00 ] 192.168.2.122 192.168.2.240 GET /
+[ info ] 192.168.2.122:81/ [运行时间：0.535303s][吞吐率：1.87req/s] [内存消耗：1,637.92kb] [文件加载：26]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => '_csrf=41f5667164f6ed2f49ee3c82fa0efa5ec67eb2378db0541fbe46957fb5757225a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%F7W%E4U%0B%9CT%96%DD%09%90%D9%D1%97%00%11%BD%C5l%8A%D1%E1%FB%81T%22%2A%DB5r%F7%12%22%3B%7D; PHPSESSID=bmrtmpvamtq8doadifltcggmh3',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T00:05:35+08:00 ] 192.168.2.122 192.168.2.240 GET /reisPub/css/pub/base.css
+[ info ] 192.168.2.122:81/reisPub/css/pub/base.css [运行时间：0.236780s][吞吐率：4.22req/s] [内存消耗：1,637.59kb] [文件加载：26]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => '_csrf=41f5667164f6ed2f49ee3c82fa0efa5ec67eb2378db0541fbe46957fb5757225a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%F7W%E4U%0B%9CT%96%DD%09%90%D9%D1%97%00%11%BD%C5l%8A%D1%E1%FB%81T%22%2A%DB5r%F7%12%22%3B%7D; PHPSESSID=bmrtmpvamtq8doadifltcggmh3',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T00:05:35+08:00 ] 192.168.2.122 192.168.2.240 GET /reisPub/js/pub/creditBehaviorList.js
+[ info ] 192.168.2.122:81/reisPub/js/pub/creditBehaviorList.js [运行时间：0.326823s][吞吐率：3.06req/s] [内存消耗：1,637.50kb] [文件加载：26]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => '_csrf=41f5667164f6ed2f49ee3c82fa0efa5ec67eb2378db0541fbe46957fb5757225a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%F7W%E4U%0B%9CT%96%DD%09%90%D9%D1%97%00%11%BD%C5l%8A%D1%E1%FB%81T%22%2A%DB5r%F7%12%22%3B%7D; PHPSESSID=bmrtmpvamtq8doadifltcggmh3',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T00:05:35+08:00 ] 192.168.2.122 192.168.2.240 GET /reisPub/js/lib/ext/jquery.js
+[ info ] 192.168.2.122:81/reisPub/js/lib/ext/jquery.js [运行时间：0.361533s][吞吐率：2.77req/s] [内存消耗：1,637.51kb] [文件加载：26]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => '_csrf=41f5667164f6ed2f49ee3c82fa0efa5ec67eb2378db0541fbe46957fb5757225a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%F7W%E4U%0B%9CT%96%DD%09%90%D9%D1%97%00%11%BD%C5l%8A%D1%E1%FB%81T%22%2A%DB5r%F7%12%22%3B%7D; PHPSESSID=bmrtmpvamtq8doadifltcggmh3',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T00:05:35+08:00 ] 192.168.2.122 192.168.2.240 GET /images/pub/xzqlBtnBg.gif
+[ info ] 192.168.2.122:81/images/pub/xzqlBtnBg.gif [运行时间：0.192144s][吞吐率：5.20req/s] [内存消耗：1,637.73kb] [文件加载：26]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => '_csrf=41f5667164f6ed2f49ee3c82fa0efa5ec67eb2378db0541fbe46957fb5757225a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%F7W%E4U%0B%9CT%96%DD%09%90%D9%D1%97%00%11%BD%C5l%8A%D1%E1%FB%81T%22%2A%DB5r%F7%12%22%3B%7D; PHPSESSID=bmrtmpvamtq8doadifltcggmh3',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T00:05:35+08:00 ] 192.168.2.122 192.168.2.240 GET /images/pub/column_search_bg.png
+[ info ] 192.168.2.122:81/images/pub/column_search_bg.png [运行时间：0.220057s][吞吐率：4.54req/s] [内存消耗：1,637.78kb] [文件加载：26]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => '_csrf=41f5667164f6ed2f49ee3c82fa0efa5ec67eb2378db0541fbe46957fb5757225a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%F7W%E4U%0B%9CT%96%DD%09%90%D9%D1%97%00%11%BD%C5l%8A%D1%E1%FB%81T%22%2A%DB5r%F7%12%22%3B%7D; PHPSESSID=bmrtmpvamtq8doadifltcggmh3',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T00:05:35+08:00 ] 192.168.2.122 192.168.2.240 GET /images/pub/xzqlBtnBgon.gif
+[ info ] 192.168.2.122:81/images/pub/xzqlBtnBgon.gif [运行时间：0.222815s][吞吐率：4.49req/s] [内存消耗：1,637.73kb] [文件加载：26]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => '_csrf=41f5667164f6ed2f49ee3c82fa0efa5ec67eb2378db0541fbe46957fb5757225a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%F7W%E4U%0B%9CT%96%DD%09%90%D9%D1%97%00%11%BD%C5l%8A%D1%E1%FB%81T%22%2A%DB5r%F7%12%22%3B%7D; PHPSESSID=bmrtmpvamtq8doadifltcggmh3',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T00:05:36+08:00 ] 192.168.2.122 192.168.2.240 GET /favicon.ico
+[ info ] 192.168.2.122:81/favicon.ico [运行时间：0.231751s][吞吐率：4.31req/s] [内存消耗：1,638.15kb] [文件加载：26]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => '_csrf=41f5667164f6ed2f49ee3c82fa0efa5ec67eb2378db0541fbe46957fb5757225a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%F7W%E4U%0B%9CT%96%DD%09%90%D9%D1%97%00%11%BD%C5l%8A%D1%E1%FB%81T%22%2A%DB5r%F7%12%22%3B%7D; PHPSESSID=bmrtmpvamtq8doadifltcggmh3',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T00:05:47+08:00 ] 192.168.2.122 192.168.2.240 GET /averageDailyStatist?statisttype=2&designUsages=1
+[ info ] 192.168.2.122:81/averageDailyStatist?statisttype=2&designUsages=1 [运行时间：0.274052s][吞吐率：3.65req/s] [内存消耗：1,638.97kb] [文件加载：26]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => '_csrf=41f5667164f6ed2f49ee3c82fa0efa5ec67eb2378db0541fbe46957fb5757225a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%F7W%E4U%0B%9CT%96%DD%09%90%D9%D1%97%00%11%BD%C5l%8A%D1%E1%FB%81T%22%2A%DB5r%F7%12%22%3B%7D; PHPSESSID=bmrtmpvamtq8doadifltcggmh3',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'statisttype' => '2',
+  'designUsages' => '1',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T00:05:48+08:00 ] 192.168.2.122 192.168.2.240 GET /reisPub/css/pub/base.css
+[ info ] 192.168.2.122:81/reisPub/css/pub/base.css [运行时间：0.238031s][吞吐率：4.20req/s] [内存消耗：1,637.87kb] [文件加载：26]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://192.168.2.122:81/averageDailyStatist?statisttype=2&designUsages=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => '_csrf=41f5667164f6ed2f49ee3c82fa0efa5ec67eb2378db0541fbe46957fb5757225a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%F7W%E4U%0B%9CT%96%DD%09%90%D9%D1%97%00%11%BD%C5l%8A%D1%E1%FB%81T%22%2A%DB5r%F7%12%22%3B%7D; PHPSESSID=bmrtmpvamtq8doadifltcggmh3',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T00:05:48+08:00 ] 192.168.2.122 192.168.2.240 GET /reisPub/js/lib/ext/jquery.js
+[ info ] 192.168.2.122:81/reisPub/js/lib/ext/jquery.js [运行时间：0.249851s][吞吐率：4.00req/s] [内存消耗：1,637.81kb] [文件加载：26]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://192.168.2.122:81/averageDailyStatist?statisttype=2&designUsages=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => '_csrf=41f5667164f6ed2f49ee3c82fa0efa5ec67eb2378db0541fbe46957fb5757225a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%F7W%E4U%0B%9CT%96%DD%09%90%D9%D1%97%00%11%BD%C5l%8A%D1%E1%FB%81T%22%2A%DB5r%F7%12%22%3B%7D; PHPSESSID=bmrtmpvamtq8doadifltcggmh3',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T00:05:48+08:00 ] 192.168.2.122 192.168.2.240 GET /reisPub/js/pub/creditBehaviorList.js
+[ info ] 192.168.2.122:81/reisPub/js/pub/creditBehaviorList.js [运行时间：0.258186s][吞吐率：3.87req/s] [内存消耗：1,637.84kb] [文件加载：26]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://192.168.2.122:81/averageDailyStatist?statisttype=2&designUsages=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => '_csrf=41f5667164f6ed2f49ee3c82fa0efa5ec67eb2378db0541fbe46957fb5757225a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%F7W%E4U%0B%9CT%96%DD%09%90%D9%D1%97%00%11%BD%C5l%8A%D1%E1%FB%81T%22%2A%DB5r%F7%12%22%3B%7D; PHPSESSID=bmrtmpvamtq8doadifltcggmh3',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T00:05:48+08:00 ] 192.168.2.122 192.168.2.240 GET /images/pub/xzqlBtnBg.gif
+[ info ] 192.168.2.122:81/images/pub/xzqlBtnBg.gif [运行时间：0.214249s][吞吐率：4.67req/s] [内存消耗：1,637.98kb] [文件加载：26]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/averageDailyStatist?statisttype=2&designUsages=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => '_csrf=41f5667164f6ed2f49ee3c82fa0efa5ec67eb2378db0541fbe46957fb5757225a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%F7W%E4U%0B%9CT%96%DD%09%90%D9%D1%97%00%11%BD%C5l%8A%D1%E1%FB%81T%22%2A%DB5r%F7%12%22%3B%7D; PHPSESSID=bmrtmpvamtq8doadifltcggmh3',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T00:05:48+08:00 ] 192.168.2.122 192.168.2.240 GET /images/pub/column_search_bg.png
+[ info ] 192.168.2.122:81/images/pub/column_search_bg.png [运行时间：0.235630s][吞吐率：4.24req/s] [内存消耗：1,637.98kb] [文件加载：26]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/averageDailyStatist?statisttype=2&designUsages=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => '_csrf=41f5667164f6ed2f49ee3c82fa0efa5ec67eb2378db0541fbe46957fb5757225a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%F7W%E4U%0B%9CT%96%DD%09%90%D9%D1%97%00%11%BD%C5l%8A%D1%E1%FB%81T%22%2A%DB5r%F7%12%22%3B%7D; PHPSESSID=bmrtmpvamtq8doadifltcggmh3',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T00:05:48+08:00 ] 192.168.2.122 192.168.2.240 GET /images/pub/xzqlBtnBgon.gif
+[ info ] 192.168.2.122:81/images/pub/xzqlBtnBgon.gif [运行时间：0.236540s][吞吐率：4.23req/s] [内存消耗：1,637.98kb] [文件加载：26]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/averageDailyStatist?statisttype=2&designUsages=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => '_csrf=41f5667164f6ed2f49ee3c82fa0efa5ec67eb2378db0541fbe46957fb5757225a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%F7W%E4U%0B%9CT%96%DD%09%90%D9%D1%97%00%11%BD%C5l%8A%D1%E1%FB%81T%22%2A%DB5r%F7%12%22%3B%7D; PHPSESSID=bmrtmpvamtq8doadifltcggmh3',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T00:05:48+08:00 ] 192.168.2.122 192.168.2.240 GET /favicon.ico
+[ info ] 192.168.2.122:81/favicon.ico [运行时间：0.340017s][吞吐率：2.94req/s] [内存消耗：1,637.87kb] [文件加载：26]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/averageDailyStatist?statisttype=2&designUsages=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => '_csrf=41f5667164f6ed2f49ee3c82fa0efa5ec67eb2378db0541fbe46957fb5757225a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22%F7W%E4U%0B%9CT%96%DD%09%90%D9%D1%97%00%11%BD%C5l%8A%D1%E1%FB%81T%22%2A%DB5r%F7%12%22%3B%7D; PHPSESSID=bmrtmpvamtq8doadifltcggmh3',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T21:47:19+08:00 ] 192.168.2.122 192.168.2.240 GET /
+[ info ] 192.168.2.122:81/ [运行时间：0.714609s][吞吐率：1.40req/s] [内存消耗：3,435.16kb] [文件加载：26]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T21:47:20+08:00 ] 192.168.2.122 192.168.2.240 GET /favicon.ico
+[ info ] 192.168.2.122:81/favicon.ico [运行时间：0.387149s][吞吐率：2.58req/s] [内存消耗：3,434.85kb] [文件加载：26]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T21:47:41+08:00 ] 192.168.2.122 192.168.2.240 GET /
+[ info ] 192.168.2.122:81/ [运行时间：0.274043s][吞吐率：3.65req/s] [内存消耗：3,398.49kb] [文件加载：24]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T21:47:42+08:00 ] 192.168.2.122 192.168.2.240 GET /favicon.ico
+[ info ] 192.168.2.122:81/favicon.ico [运行时间：0.204210s][吞吐率：4.90req/s] [内存消耗：3,398.23kb] [文件加载：24]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T21:47:53+08:00 ] 192.168.2.122 192.168.2.240 GET /
+[ info ] 192.168.2.122:81/ [运行时间：0.297582s][吞吐率：3.36req/s] [内存消耗：3,398.70kb] [文件加载：24]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T21:47:54+08:00 ] 192.168.2.122 192.168.2.240 GET /favicon.ico
+[ info ] 192.168.2.122:81/favicon.ico [运行时间：0.211350s][吞吐率：4.73req/s] [内存消耗：3,398.34kb] [文件加载：24]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T21:48:20+08:00 ] 192.168.2.122 192.168.2.240 GET /
+[ info ] 192.168.2.122:81/ [运行时间：0.240251s][吞吐率：4.16req/s] [内存消耗：1,564.62kb] [文件加载：24]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T21:48:20+08:00 ] 192.168.2.122 192.168.2.240 GET /reisPub/js/lib/ext/jquery.js
+[ info ] 192.168.2.122:81/reisPub/js/lib/ext/jquery.js [运行时间：0.207532s][吞吐率：4.82req/s] [内存消耗：1,564.32kb] [文件加载：24]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T21:48:20+08:00 ] 192.168.2.122 192.168.2.240 GET /reisPub/css/pub/base.css
+[ info ] 192.168.2.122:81/reisPub/css/pub/base.css [运行时间：0.222688s][吞吐率：4.49req/s] [内存消耗：1,564.29kb] [文件加载：24]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T21:48:21+08:00 ] 192.168.2.122 192.168.2.240 GET /reisPub/js/pub/creditBehaviorList.js
+[ info ] 192.168.2.122:81/reisPub/js/pub/creditBehaviorList.js [运行时间：0.195457s][吞吐率：5.12req/s] [内存消耗：1,564.27kb] [文件加载：24]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T21:48:21+08:00 ] 192.168.2.122 192.168.2.240 GET /images/pub/column_search_bg.png
+[ info ] 192.168.2.122:81/images/pub/column_search_bg.png [运行时间：0.194435s][吞吐率：5.14req/s] [内存消耗：1,564.50kb] [文件加载：24]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T21:48:21+08:00 ] 192.168.2.122 192.168.2.240 GET /images/pub/xzqlBtnBgon.gif
+[ info ] 192.168.2.122:81/images/pub/xzqlBtnBgon.gif [运行时间：0.211335s][吞吐率：4.73req/s] [内存消耗：1,564.47kb] [文件加载：24]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T21:48:21+08:00 ] 192.168.2.122 192.168.2.240 GET /images/pub/xzqlBtnBg.gif
+[ info ] 192.168.2.122:81/images/pub/xzqlBtnBg.gif [运行时间：0.335795s][吞吐率：2.98req/s] [内存消耗：1,564.60kb] [文件加载：24]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T21:48:21+08:00 ] 192.168.2.122 192.168.2.240 GET /favicon.ico
+[ info ] 192.168.2.122:81/favicon.ico [运行时间：0.219774s][吞吐率：4.55req/s] [内存消耗：1,564.38kb] [文件加载：24]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-12-11T22:14:20+08:00 ] 192.168.2.122 192.168.2.240 GET /
+[ error ] [1]Call to undefined function app\index\controller\M()
+---------------------------------------------------------------
+[ 2017-12-11T22:14:21+08:00 ] 192.168.2.122 192.168.2.240 GET /favicon.ico
+[ error ] [1]Call to undefined function app\index\controller\M()
+---------------------------------------------------------------
+[ 2017-12-11T22:14:47+08:00 ] 192.168.2.122 192.168.2.240 GET /
+[ info ] 192.168.2.122:81/ [运行时间：0.208581s][吞吐率：4.79req/s] [内存消耗：1,849.84kb] [文件加载：35]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined function app\index\controller\M()[/data/www/ant/application/index/controller/Index.php:37]
+---------------------------------------------------------------
+[ 2017-12-11T22:14:48+08:00 ] 192.168.2.122 192.168.2.240 GET /favicon.ico
+[ info ] 192.168.2.122:81/favicon.ico [运行时间：0.018482s][吞吐率：54.11req/s] [内存消耗：1,849.74kb] [文件加载：35]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0; thinkphp_show_page_trace=0|0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined function app\index\controller\M()[/data/www/ant/application/index/controller/Index.php:37]
+---------------------------------------------------------------
+[ 2017-12-11T22:17:04+08:00 ] 192.168.2.122 192.168.2.240 GET /
+[ info ] 192.168.2.122:81/ [运行时间：0.030634s][吞吐率：32.64req/s] [内存消耗：1,850.52kb] [文件加载：35]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0; thinkphp_show_page_trace=0|0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'app\index\controller\Db' not found[/data/www/ant/application/index/controller/Index.php:37]
+---------------------------------------------------------------
+[ 2017-12-11T22:17:04+08:00 ] 192.168.2.122 192.168.2.240 GET /favicon.ico
+[ info ] 192.168.2.122:81/favicon.ico [运行时间：0.014186s][吞吐率：70.49req/s] [内存消耗：1,850.37kb] [文件加载：35]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0; thinkphp_show_page_trace=0|0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'app\index\controller\Db' not found[/data/www/ant/application/index/controller/Index.php:37]
+---------------------------------------------------------------
+[ 2017-12-11T22:20:28+08:00 ] 192.168.2.122 192.168.2.240 GET /
+[ info ] 192.168.2.122:81/ [运行时间：0.018374s][吞吐率：54.42req/s] [内存消耗：1,850.52kb] [文件加载：35]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0; thinkphp_show_page_trace=0|0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'app\index\controller\Db' not found[/data/www/ant/application/index/controller/Index.php:37]
+---------------------------------------------------------------
+[ 2017-12-11T22:20:28+08:00 ] 192.168.2.122 192.168.2.240 GET /favicon.ico
+[ info ] 192.168.2.122:81/favicon.ico [运行时间：0.017526s][吞吐率：57.06req/s] [内存消耗：1,850.37kb] [文件加载：35]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0; thinkphp_show_page_trace=0|0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'app\index\controller\Db' not found[/data/www/ant/application/index/controller/Index.php:37]
+---------------------------------------------------------------
+[ 2017-12-11T22:21:14+08:00 ] 192.168.2.122 192.168.2.240 GET /
+[ info ] 192.168.2.122:81/ [运行时间：0.071621s][吞吐率：13.96req/s] [内存消耗：2,712.47kb] [文件加载：38]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0; thinkphp_show_page_trace=0|0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]could not find driver[/data/www/thinkphp_core/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-12-11T22:21:14+08:00 ] 192.168.2.122 192.168.2.240 GET /favicon.ico
+[ info ] 192.168.2.122:81/favicon.ico [运行时间：0.028455s][吞吐率：35.14req/s] [内存消耗：2,712.22kb] [文件加载：38]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0; thinkphp_show_page_trace=0|0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]could not find driver[/data/www/thinkphp_core/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-12-11T23:16:09+08:00 ] 192.168.2.122 192.168.2.240 GET /
+[ info ] 192.168.2.122:81/ [运行时间：0.087924s][吞吐率：11.37req/s] [内存消耗：2,712.50kb] [文件加载：38]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0; thinkphp_show_page_trace=0|0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]could not find driver[/data/www/thinkphp_core/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-12-11T23:16:09+08:00 ] 192.168.2.122 192.168.2.240 GET /favicon.ico
+[ info ] 192.168.2.122:81/favicon.ico [运行时间：0.024515s][吞吐率：40.79req/s] [内存消耗：2,712.26kb] [文件加载：38]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0; thinkphp_show_page_trace=0|0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]could not find driver[/data/www/thinkphp_core/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-12-11T23:30:24+08:00 ] 192.168.2.122 192.168.2.240 GET /
+[ info ] 192.168.2.122:81/ [运行时间：0.035677s][吞吐率：28.03req/s] [内存消耗：2,714.04kb] [文件加载：38]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0; thinkphp_show_page_trace=0|0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]could not find driver[/data/www/thinkphp_core/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-12-11T23:30:25+08:00 ] 192.168.2.122 192.168.2.240 GET /favicon.ico
+[ info ] 192.168.2.122:81/favicon.ico [运行时间：0.024430s][吞吐率：40.93req/s] [内存消耗：2,713.95kb] [文件加载：38]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0; thinkphp_show_page_trace=0|0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]could not find driver[/data/www/thinkphp_core/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-12-11T23:39:54+08:00 ] 192.168.2.122 192.168.2.240 GET /
+[ info ] 192.168.2.122:81/ [运行时间：0.033842s][吞吐率：29.55req/s] [内存消耗：2,714.04kb] [文件加载：38]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0; thinkphp_show_page_trace=0|0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]could not find driver[/data/www/thinkphp_core/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-12-11T23:39:54+08:00 ] 192.168.2.122 192.168.2.240 GET /favicon.ico
+[ info ] 192.168.2.122:81/favicon.ico [运行时间：0.022642s][吞吐率：44.17req/s] [内存消耗：2,713.95kb] [文件加载：38]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0; thinkphp_show_page_trace=0|0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]could not find driver[/data/www/thinkphp_core/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-12-11T23:42:58+08:00 ] 192.168.2.122 192.168.2.240 GET /
+[ info ] 192.168.2.122:81/ [运行时间：0.035443s][吞吐率：28.21req/s] [内存消耗：2,712.96kb] [文件加载：38]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0; thinkphp_show_page_trace=0|0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]could not find driver[/data/www/thinkphp_core/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-12-11T23:42:58+08:00 ] 192.168.2.122 192.168.2.240 GET /favicon.ico
+[ info ] 192.168.2.122:81/favicon.ico [运行时间：0.024639s][吞吐率：40.59req/s] [内存消耗：2,712.93kb] [文件加载：38]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0; thinkphp_show_page_trace=0|0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]could not find driver[/data/www/thinkphp_core/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-12-11T23:43:10+08:00 ] 192.168.2.122 192.168.2.240 GET /
+[ info ] 192.168.2.122:81/ [运行时间：0.039369s][吞吐率：25.40req/s] [内存消耗：2,712.95kb] [文件加载：38]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0; thinkphp_show_page_trace=0|0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]could not find driver[/data/www/thinkphp_core/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-12-11T23:43:11+08:00 ] 192.168.2.122 192.168.2.240 GET /favicon.ico
+[ info ] 192.168.2.122:81/favicon.ico [运行时间：0.022220s][吞吐率：45.00req/s] [内存消耗：2,712.93kb] [文件加载：38]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0; thinkphp_show_page_trace=0|0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]could not find driver[/data/www/thinkphp_core/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-12-11T23:43:51+08:00 ] 192.168.2.122 192.168.2.240 GET /
+[ info ] 192.168.2.122:81/ [运行时间：0.036794s][吞吐率：27.18req/s] [内存消耗：2,712.95kb] [文件加载：38]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0; thinkphp_show_page_trace=0|0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]could not find driver[/data/www/thinkphp_core/thinkphp/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2017-12-11T23:43:51+08:00 ] 192.168.2.122 192.168.2.240 GET /favicon.ico
+[ info ] 192.168.2.122:81/favicon.ico [运行时间：0.025061s][吞吐率：39.90req/s] [内存消耗：2,712.93kb] [文件加载：38]
+[ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '192.168.2.122:81',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://192.168.2.122:81/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=mechlfjuramb9af1evltm88bs0; thinkphp_show_page_trace=0|0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [0]could not find driver[/data/www/thinkphp_core/thinkphp/library/think/db/Connection.php:293]

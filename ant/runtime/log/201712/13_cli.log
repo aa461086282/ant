@@ -1,0 +1,334 @@
+[ 2017-12-13T21:29:16+08:00 ][ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T21:29:16+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T21:29:16+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T21:29:16+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-13T21:29:16+08:00 ][ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ 2017-12-13T21:29:26+08:00 ][ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T21:29:26+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T21:29:26+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T21:29:26+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-13T21:29:26+08:00 ][ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ 2017-12-13T21:29:27+08:00 ][ error ] [2]file_put_contents(/html/backHtml2017-13-12.html): failed to open stream: No such file or directory[/data/www/ant/application/index/controller/Index.php:16]
+[ 2017-12-13T21:31:14+08:00 ][ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T21:31:14+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T21:31:14+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T21:31:14+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-13T21:31:14+08:00 ][ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ 2017-12-13T21:31:14+08:00 ][ error ] [2]file_put_contents(/html/backHtml2017-13-12.html): failed to open stream: No such file or directory[/data/www/ant/application/index/controller/Index.php:18]
+[ 2017-12-13T21:31:27+08:00 ][ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T21:31:27+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T21:31:27+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T21:31:27+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-13T21:31:27+08:00 ][ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ 2017-12-13T21:32:27+08:00 ][ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T21:32:27+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T21:32:27+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T21:32:27+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-13T21:32:27+08:00 ][ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ 2017-12-13T21:33:38+08:00 ][ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T21:33:38+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T21:33:38+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T21:33:38+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-13T21:33:38+08:00 ][ error ] [0]Parse error: syntax error, unexpected 'file_put_contents' (T_STRING)[/data/www/ant/application/index/controller/Index.php:19]
+[ 2017-12-13T21:34:06+08:00 ][ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T21:34:06+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T21:34:06+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T21:34:06+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-13T21:34:06+08:00 ][ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ 2017-12-13T21:34:06+08:00 ][ error ] [2]file_put_contents(/data/www/ant/application/index/controller/html/backHtml2017-13-12.html): failed to open stream: No such file or directory[/data/www/ant/application/index/controller/Index.php:19]
+[ 2017-12-13T21:34:29+08:00 ][ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T21:34:29+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T21:34:29+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T21:34:29+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-13T21:34:29+08:00 ][ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ 2017-12-13T21:34:30+08:00 ][ info ] [ DB ] INIT mysql
+[ 2017-12-13T21:34:30+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001284s ] mysql:host=192.168.2.122;port=3306;dbname=House;charset=utf8
+[ 2017-12-13T21:34:30+08:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `source` [ RunTime:0.002273s ]
+[ 2017-12-13T21:34:30+08:00 ][ sql ] [ SQL ] INSERT INTO `source` (`quyu` , `time` , `xiaoshoulouhao` , `chengjiaotaoshu` , `chengjiaomianji` , `chengjiaojunjia`) SELECT '泰安市',1513172070,'大安·书香世家15号楼','2','230.2','5315.8' UNION ALL SELECT '泰安市',1513172070,'上峪村旧村改造开发部分（卧龙大观）B14号楼','2','243.48','11068.95' UNION ALL SELECT '泰安市',1513172070,'大安·书香世家19号楼','4','485.3','5310.68' UNION ALL SELECT '泰安市',1513172070,'御泉大院12号楼','1','129.39','17421.35' UNION ALL SELECT '泰安市',1513172070,'青春创业开发区天房美郡国际城B区10号楼','1','107.84','7141.44' UNION ALL SELECT '泰安市',1513172070,'中南世纪锦城一期4号楼','1','137.75','6711' UNION ALL SELECT '泰安市',1513172070,'鼎峰瑞岳住宅小区二期25号楼','1','140.1','17250.36' UNION ALL SELECT '泰安市',1513172070,'鲁商中心D-03地块G9号楼G9号楼','9','1055.36','7634.1' UNION ALL SELECT '泰安市',1513172070,'青春创业开发区天房美郡国际城B区29号楼','1','126.62','7215.17' UNION ALL SELECT '泰安市',1513172070,'泰豪名城1号楼','1','93.69','6350.01' UNION ALL SELECT '泰安市',1513172070,'圣源华郡2号楼','1','102.52','17947.72' UNION ALL SELECT '泰安市',1513172070,'御泉大院5号楼','1','130.53','8039.17' UNION ALL SELECT '泰安市',1513172070,'嘉源居1号楼','7','858.27','4043.02' UNION ALL SELECT '泰安市',1513172070,'泰山·天竹佳苑6号楼','1','116.85','7387' UNION ALL SELECT '泰安市',1513172070,'嘉源居2号楼','37','4209.65','3972.22' UNION ALL SELECT '泰安市',1513172070,'绿地·云水谣2-6号楼','3','458.61','8624.96' UNION ALL SELECT '泰安市',1513172070,'御泉大院1号楼','1','124.02','10127.1' UNION ALL SELECT '泰安市',1513172070,'大安·书香世家住宅小区6号楼','1','111.23','3921.98' UNION ALL SELECT '泰安市',1513172070,'绿地·云水谣2-3号楼','7','976.25','7237.2' UNION ALL SELECT '泰安市',1513172070,'中南世纪锦城3号楼','1','128.84','7743.64' UNION ALL SELECT '泰安市',1513172070,'圣山大厦C座','1','59.97','6700' UNION ALL SELECT '泰安市',1513172070,'澎湖湾A区10号楼','1','91.75','4813.49' UNION ALL SELECT '泰安市',1513172070,'贤德苑住宅楼','1','99.7','6018' UNION ALL SELECT '泰安市',1513172070,'泮河小镇3号楼','1','94.52','8085.95' UNION ALL SELECT '泰安市',1513172070,'华益·东方新苑8号楼','1','96.55','5500' UNION ALL SELECT '泰安市',1513172070,'绿地·云水谣2-4号楼','3','460.5','6162.33' UNION ALL SELECT '泰安市',1513172070,'康平御园2号楼','1','94.54','6728.05' UNION ALL SELECT '泰安市',1513172070,'青春创业开发区天房美郡国际城B区12号楼','1','107.84','5755.3' UNION ALL SELECT '泰安市',1513172070,'泺亨国际居住区7号楼','1','87.21','6070.67' UNION ALL SELECT '泰安市',1513172070,'灵山大街以北、泮河西路以西V18号楼','2','243.02','10138.53' UNION ALL SELECT '泰安市',1513172070,'御泉大院6号楼','1','133.89','8470' UNION ALL SELECT '泰安市',1513172070,'绿地·云水谣2-5号楼','1','104.82','5460' UNION ALL SELECT '泰安市',1513172070,'春风十里6号楼','2','244.34','5901.78' UNION ALL SELECT '泰安市',1513172070,'绿地公馆二组团2-3号楼','1','133.04','6100' UNION ALL SELECT '泰安市',1513172070,'泰山公馆1号楼','1','96.49','7495' UNION ALL SELECT '泰安市',1513172070,'青春创业开发区天房美郡国际城B区20号楼','1','107.02','5139.23' UNION ALL SELECT '泰安市',1513172070,'泰山清水湾D2号楼','1','308.04','7000' UNION ALL SELECT '泰安市',1513172070,'正嘉馨居1号楼','1','96.75','6323' UNION ALL SELECT '泰安市',1513172070,'大安·书香世家14号楼','2','230.5','5408.13' UNION ALL SELECT '泰安市',1513172070,'鼎峰瑞岳住宅小区二期28号楼','1','127.65','17974.67' UNION ALL SELECT '泰安市',1513172070,'中南世纪锦城6号楼','1','134.38','7463.23' UNION ALL SELECT '泰安市',1513172070,'绿地·云水谣1-7号楼','1','133.44','9600' UNION ALL SELECT '泰安市',1513172070,'嘉业·泰然居15号楼','2','238.16','5591.09' UNION ALL SELECT '泰安市',1513172070,'大展鸿府1号楼','2','203.8','6928.33' UNION ALL SELECT '泰安市',1513172070,'天颐湖蓝庭公馆14号楼','4','432.18','4511.22' UNION ALL SELECT '泰安市',1513172070,'上峪村旧村改造开发部分（卧龙大观）B17号楼','1','139.47','12186.4' UNION ALL SELECT '泰安市',1513172070,'泰山国际金融中心C栋住宅楼','1','40.98','9329.99' UNION ALL SELECT '泰安市',1513172070,'大安·书香世家22号楼','3','344.43','5991.16' UNION ALL SELECT '泰安市',1513172070,'青春创业开发区天房美郡国际城B区13号楼','1','107.84','5876.34' UNION ALL SELECT '泰安市',1513172070,'大安·书香世家12号楼','2','229.44','5217.05' [ RunTime:0.072137s ]
+[ 2017-12-13T21:34:30+08:00 ][ error ] [2]file_put_contents() expects parameter 3 to be integer, string given[/data/www/ant/application/index/controller/Index.php:45]
+[ 2017-12-13T21:37:02+08:00 ][ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T21:37:02+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T21:37:02+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T21:37:02+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-13T21:37:02+08:00 ][ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ 2017-12-13T21:37:02+08:00 ][ info ] [ DB ] INIT mysql
+[ 2017-12-13T21:37:02+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001296s ] mysql:host=192.168.2.122;port=3306;dbname=House;charset=utf8
+[ 2017-12-13T21:37:02+08:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `source` [ RunTime:0.002040s ]
+[ 2017-12-13T21:37:03+08:00 ][ sql ] [ SQL ] INSERT INTO `source` (`quyu` , `time` , `xiaoshoulouhao` , `chengjiaotaoshu` , `chengjiaomianji` , `chengjiaojunjia`) SELECT '泰安市',1513172222,'大安·书香世家15号楼','2','230.2','5315.8' UNION ALL SELECT '泰安市',1513172222,'上峪村旧村改造开发部分（卧龙大观）B14号楼','2','243.48','11068.95' UNION ALL SELECT '泰安市',1513172222,'大安·书香世家19号楼','4','485.3','5310.68' UNION ALL SELECT '泰安市',1513172222,'御泉大院12号楼','1','129.39','17421.35' UNION ALL SELECT '泰安市',1513172222,'青春创业开发区天房美郡国际城B区10号楼','1','107.84','7141.44' UNION ALL SELECT '泰安市',1513172222,'中南世纪锦城一期4号楼','1','137.75','6711' UNION ALL SELECT '泰安市',1513172222,'鼎峰瑞岳住宅小区二期25号楼','1','140.1','17250.36' UNION ALL SELECT '泰安市',1513172222,'鲁商中心D-03地块G9号楼G9号楼','9','1055.36','7634.1' UNION ALL SELECT '泰安市',1513172222,'青春创业开发区天房美郡国际城B区29号楼','1','126.62','7215.17' UNION ALL SELECT '泰安市',1513172222,'泰豪名城1号楼','1','93.69','6350.01' UNION ALL SELECT '泰安市',1513172222,'圣源华郡2号楼','1','102.52','17947.72' UNION ALL SELECT '泰安市',1513172222,'御泉大院5号楼','1','130.53','8039.17' UNION ALL SELECT '泰安市',1513172222,'嘉源居1号楼','7','858.27','4043.02' UNION ALL SELECT '泰安市',1513172222,'泰山·天竹佳苑6号楼','1','116.85','7387' UNION ALL SELECT '泰安市',1513172222,'嘉源居2号楼','37','4209.65','3972.22' UNION ALL SELECT '泰安市',1513172222,'绿地·云水谣2-6号楼','3','458.61','8624.96' UNION ALL SELECT '泰安市',1513172222,'御泉大院1号楼','1','124.02','10127.1' UNION ALL SELECT '泰安市',1513172222,'大安·书香世家住宅小区6号楼','1','111.23','3921.98' UNION ALL SELECT '泰安市',1513172222,'绿地·云水谣2-3号楼','7','976.25','7237.2' UNION ALL SELECT '泰安市',1513172222,'中南世纪锦城3号楼','1','128.84','7743.64' UNION ALL SELECT '泰安市',1513172222,'圣山大厦C座','1','59.97','6700' UNION ALL SELECT '泰安市',1513172222,'澎湖湾A区10号楼','1','91.75','4813.49' UNION ALL SELECT '泰安市',1513172222,'贤德苑住宅楼','1','99.7','6018' UNION ALL SELECT '泰安市',1513172222,'泮河小镇3号楼','1','94.52','8085.95' UNION ALL SELECT '泰安市',1513172222,'华益·东方新苑8号楼','1','96.55','5500' UNION ALL SELECT '泰安市',1513172222,'绿地·云水谣2-4号楼','3','460.5','6162.33' UNION ALL SELECT '泰安市',1513172222,'康平御园2号楼','1','94.54','6728.05' UNION ALL SELECT '泰安市',1513172222,'青春创业开发区天房美郡国际城B区12号楼','1','107.84','5755.3' UNION ALL SELECT '泰安市',1513172222,'泺亨国际居住区7号楼','1','87.21','6070.67' UNION ALL SELECT '泰安市',1513172222,'灵山大街以北、泮河西路以西V18号楼','2','243.02','10138.53' UNION ALL SELECT '泰安市',1513172222,'御泉大院6号楼','1','133.89','8470' UNION ALL SELECT '泰安市',1513172222,'绿地·云水谣2-5号楼','1','104.82','5460' UNION ALL SELECT '泰安市',1513172222,'春风十里6号楼','2','244.34','5901.78' UNION ALL SELECT '泰安市',1513172222,'绿地公馆二组团2-3号楼','1','133.04','6100' UNION ALL SELECT '泰安市',1513172222,'泰山公馆1号楼','1','96.49','7495' UNION ALL SELECT '泰安市',1513172222,'青春创业开发区天房美郡国际城B区20号楼','1','107.02','5139.23' UNION ALL SELECT '泰安市',1513172222,'泰山清水湾D2号楼','1','308.04','7000' UNION ALL SELECT '泰安市',1513172222,'正嘉馨居1号楼','1','96.75','6323' UNION ALL SELECT '泰安市',1513172222,'大安·书香世家14号楼','2','230.5','5408.13' UNION ALL SELECT '泰安市',1513172222,'鼎峰瑞岳住宅小区二期28号楼','1','127.65','17974.67' UNION ALL SELECT '泰安市',1513172222,'中南世纪锦城6号楼','1','134.38','7463.23' UNION ALL SELECT '泰安市',1513172222,'绿地·云水谣1-7号楼','1','133.44','9600' UNION ALL SELECT '泰安市',1513172222,'嘉业·泰然居15号楼','2','238.16','5591.09' UNION ALL SELECT '泰安市',1513172222,'大展鸿府1号楼','2','203.8','6928.33' UNION ALL SELECT '泰安市',1513172222,'天颐湖蓝庭公馆14号楼','4','432.18','4511.22' UNION ALL SELECT '泰安市',1513172222,'上峪村旧村改造开发部分（卧龙大观）B17号楼','1','139.47','12186.4' UNION ALL SELECT '泰安市',1513172222,'泰山国际金融中心C栋住宅楼','1','40.98','9329.99' UNION ALL SELECT '泰安市',1513172222,'大安·书香世家22号楼','3','344.43','5991.16' UNION ALL SELECT '泰安市',1513172222,'青春创业开发区天房美郡国际城B区13号楼','1','107.84','5876.34' UNION ALL SELECT '泰安市',1513172222,'大安·书香世家12号楼','2','229.44','5217.05' [ RunTime:0.036991s ]
+[ 2017-12-13T21:37:03+08:00 ][ error ] [2]file_put_contents() expects parameter 3 to be integer, string given[/data/www/ant/application/index/controller/Index.php:45]
+[ 2017-12-13T21:37:34+08:00 ][ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T21:37:34+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T21:37:34+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T21:37:34+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-13T21:37:34+08:00 ][ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ 2017-12-13T21:38:10+08:00 ][ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T21:38:10+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T21:38:10+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T21:38:10+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-13T21:38:10+08:00 ][ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ 2017-12-13T21:38:10+08:00 ][ info ] [ DB ] INIT mysql
+[ 2017-12-13T21:38:10+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001216s ] mysql:host=192.168.2.122;port=3306;dbname=House;charset=utf8
+[ 2017-12-13T21:38:10+08:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `source` [ RunTime:0.002158s ]
+[ 2017-12-13T21:38:10+08:00 ][ sql ] [ SQL ] INSERT INTO `source` (`quyu` , `time` , `xiaoshoulouhao` , `chengjiaotaoshu` , `chengjiaomianji` , `chengjiaojunjia`) SELECT '泰安市',1513172290,'大安·书香世家15号楼','2','230.2','5315.8' UNION ALL SELECT '泰安市',1513172290,'上峪村旧村改造开发部分（卧龙大观）B14号楼','2','243.48','11068.95' UNION ALL SELECT '泰安市',1513172290,'大安·书香世家19号楼','4','485.3','5310.68' UNION ALL SELECT '泰安市',1513172290,'御泉大院12号楼','1','129.39','17421.35' UNION ALL SELECT '泰安市',1513172290,'青春创业开发区天房美郡国际城B区10号楼','1','107.84','7141.44' UNION ALL SELECT '泰安市',1513172290,'中南世纪锦城一期4号楼','1','137.75','6711' UNION ALL SELECT '泰安市',1513172290,'鼎峰瑞岳住宅小区二期25号楼','1','140.1','17250.36' UNION ALL SELECT '泰安市',1513172290,'鲁商中心D-03地块G9号楼G9号楼','9','1055.36','7634.1' UNION ALL SELECT '泰安市',1513172290,'青春创业开发区天房美郡国际城B区29号楼','1','126.62','7215.17' UNION ALL SELECT '泰安市',1513172290,'泰豪名城1号楼','1','93.69','6350.01' UNION ALL SELECT '泰安市',1513172290,'圣源华郡2号楼','1','102.52','17947.72' UNION ALL SELECT '泰安市',1513172290,'御泉大院5号楼','1','130.53','8039.17' UNION ALL SELECT '泰安市',1513172290,'嘉源居1号楼','7','858.27','4043.02' UNION ALL SELECT '泰安市',1513172290,'泰山·天竹佳苑6号楼','1','116.85','7387' UNION ALL SELECT '泰安市',1513172290,'嘉源居2号楼','37','4209.65','3972.22' UNION ALL SELECT '泰安市',1513172290,'绿地·云水谣2-6号楼','3','458.61','8624.96' UNION ALL SELECT '泰安市',1513172290,'御泉大院1号楼','1','124.02','10127.1' UNION ALL SELECT '泰安市',1513172290,'大安·书香世家住宅小区6号楼','1','111.23','3921.98' UNION ALL SELECT '泰安市',1513172290,'绿地·云水谣2-3号楼','7','976.25','7237.2' UNION ALL SELECT '泰安市',1513172290,'中南世纪锦城3号楼','1','128.84','7743.64' UNION ALL SELECT '泰安市',1513172290,'圣山大厦C座','1','59.97','6700' UNION ALL SELECT '泰安市',1513172290,'澎湖湾A区10号楼','1','91.75','4813.49' UNION ALL SELECT '泰安市',1513172290,'贤德苑住宅楼','1','99.7','6018' UNION ALL SELECT '泰安市',1513172290,'泮河小镇3号楼','1','94.52','8085.95' UNION ALL SELECT '泰安市',1513172290,'华益·东方新苑8号楼','1','96.55','5500' UNION ALL SELECT '泰安市',1513172290,'绿地·云水谣2-4号楼','3','460.5','6162.33' UNION ALL SELECT '泰安市',1513172290,'康平御园2号楼','1','94.54','6728.05' UNION ALL SELECT '泰安市',1513172290,'青春创业开发区天房美郡国际城B区12号楼','1','107.84','5755.3' UNION ALL SELECT '泰安市',1513172290,'泺亨国际居住区7号楼','1','87.21','6070.67' UNION ALL SELECT '泰安市',1513172290,'灵山大街以北、泮河西路以西V18号楼','2','243.02','10138.53' UNION ALL SELECT '泰安市',1513172290,'御泉大院6号楼','1','133.89','8470' UNION ALL SELECT '泰安市',1513172290,'绿地·云水谣2-5号楼','1','104.82','5460' UNION ALL SELECT '泰安市',1513172290,'春风十里6号楼','2','244.34','5901.78' UNION ALL SELECT '泰安市',1513172290,'绿地公馆二组团2-3号楼','1','133.04','6100' UNION ALL SELECT '泰安市',1513172290,'泰山公馆1号楼','1','96.49','7495' UNION ALL SELECT '泰安市',1513172290,'青春创业开发区天房美郡国际城B区20号楼','1','107.02','5139.23' UNION ALL SELECT '泰安市',1513172290,'泰山清水湾D2号楼','1','308.04','7000' UNION ALL SELECT '泰安市',1513172290,'正嘉馨居1号楼','1','96.75','6323' UNION ALL SELECT '泰安市',1513172290,'大安·书香世家14号楼','2','230.5','5408.13' UNION ALL SELECT '泰安市',1513172290,'鼎峰瑞岳住宅小区二期28号楼','1','127.65','17974.67' UNION ALL SELECT '泰安市',1513172290,'中南世纪锦城6号楼','1','134.38','7463.23' UNION ALL SELECT '泰安市',1513172290,'绿地·云水谣1-7号楼','1','133.44','9600' UNION ALL SELECT '泰安市',1513172290,'嘉业·泰然居15号楼','2','238.16','5591.09' UNION ALL SELECT '泰安市',1513172290,'大展鸿府1号楼','2','203.8','6928.33' UNION ALL SELECT '泰安市',1513172290,'天颐湖蓝庭公馆14号楼','4','432.18','4511.22' UNION ALL SELECT '泰安市',1513172290,'上峪村旧村改造开发部分（卧龙大观）B17号楼','1','139.47','12186.4' UNION ALL SELECT '泰安市',1513172290,'泰山国际金融中心C栋住宅楼','1','40.98','9329.99' UNION ALL SELECT '泰安市',1513172290,'大安·书香世家22号楼','3','344.43','5991.16' UNION ALL SELECT '泰安市',1513172290,'青春创业开发区天房美郡国际城B区13号楼','1','107.84','5876.34' UNION ALL SELECT '泰安市',1513172290,'大安·书香世家12号楼','2','229.44','5217.05' [ RunTime:0.006187s ]
+[ 2017-12-13T21:38:10+08:00 ][ error ] [2]file_put_contents() expects parameter 3 to be integer, string given[/data/www/ant/application/index/controller/Index.php:47]
+[ 2017-12-13T21:39:25+08:00 ][ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T21:39:25+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T21:39:25+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T21:39:25+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-13T21:39:25+08:00 ][ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ 2017-12-13T21:39:26+08:00 ][ info ] [ DB ] INIT mysql
+[ 2017-12-13T21:39:26+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.002384s ] mysql:host=192.168.2.122;port=3306;dbname=House;charset=utf8
+[ 2017-12-13T21:39:26+08:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `source` [ RunTime:0.004142s ]
+[ 2017-12-13T21:39:26+08:00 ][ sql ] [ SQL ] INSERT INTO `source` (`quyu` , `time` , `xiaoshoulouhao` , `chengjiaotaoshu` , `chengjiaomianji` , `chengjiaojunjia`) SELECT '泰安市',1513172366,'大安·书香世家15号楼','2','230.2','5315.8' UNION ALL SELECT '泰安市',1513172366,'上峪村旧村改造开发部分（卧龙大观）B14号楼','2','243.48','11068.95' UNION ALL SELECT '泰安市',1513172366,'大安·书香世家19号楼','4','485.3','5310.68' UNION ALL SELECT '泰安市',1513172366,'御泉大院12号楼','1','129.39','17421.35' UNION ALL SELECT '泰安市',1513172366,'青春创业开发区天房美郡国际城B区10号楼','1','107.84','7141.44' UNION ALL SELECT '泰安市',1513172366,'中南世纪锦城一期4号楼','1','137.75','6711' UNION ALL SELECT '泰安市',1513172366,'鼎峰瑞岳住宅小区二期25号楼','1','140.1','17250.36' UNION ALL SELECT '泰安市',1513172366,'鲁商中心D-03地块G9号楼G9号楼','9','1055.36','7634.1' UNION ALL SELECT '泰安市',1513172366,'青春创业开发区天房美郡国际城B区29号楼','1','126.62','7215.17' UNION ALL SELECT '泰安市',1513172366,'泰豪名城1号楼','1','93.69','6350.01' UNION ALL SELECT '泰安市',1513172366,'圣源华郡2号楼','1','102.52','17947.72' UNION ALL SELECT '泰安市',1513172366,'御泉大院5号楼','1','130.53','8039.17' UNION ALL SELECT '泰安市',1513172366,'嘉源居1号楼','7','858.27','4043.02' UNION ALL SELECT '泰安市',1513172366,'泰山·天竹佳苑6号楼','1','116.85','7387' UNION ALL SELECT '泰安市',1513172366,'嘉源居2号楼','37','4209.65','3972.22' UNION ALL SELECT '泰安市',1513172366,'绿地·云水谣2-6号楼','3','458.61','8624.96' UNION ALL SELECT '泰安市',1513172366,'御泉大院1号楼','1','124.02','10127.1' UNION ALL SELECT '泰安市',1513172366,'大安·书香世家住宅小区6号楼','1','111.23','3921.98' UNION ALL SELECT '泰安市',1513172366,'绿地·云水谣2-3号楼','7','976.25','7237.2' UNION ALL SELECT '泰安市',1513172366,'中南世纪锦城3号楼','1','128.84','7743.64' UNION ALL SELECT '泰安市',1513172366,'圣山大厦C座','1','59.97','6700' UNION ALL SELECT '泰安市',1513172366,'澎湖湾A区10号楼','1','91.75','4813.49' UNION ALL SELECT '泰安市',1513172366,'贤德苑住宅楼','1','99.7','6018' UNION ALL SELECT '泰安市',1513172366,'泮河小镇3号楼','1','94.52','8085.95' UNION ALL SELECT '泰安市',1513172366,'华益·东方新苑8号楼','1','96.55','5500' UNION ALL SELECT '泰安市',1513172366,'绿地·云水谣2-4号楼','3','460.5','6162.33' UNION ALL SELECT '泰安市',1513172366,'康平御园2号楼','1','94.54','6728.05' UNION ALL SELECT '泰安市',1513172366,'青春创业开发区天房美郡国际城B区12号楼','1','107.84','5755.3' UNION ALL SELECT '泰安市',1513172366,'泺亨国际居住区7号楼','1','87.21','6070.67' UNION ALL SELECT '泰安市',1513172366,'灵山大街以北、泮河西路以西V18号楼','2','243.02','10138.53' UNION ALL SELECT '泰安市',1513172366,'御泉大院6号楼','1','133.89','8470' UNION ALL SELECT '泰安市',1513172366,'绿地·云水谣2-5号楼','1','104.82','5460' UNION ALL SELECT '泰安市',1513172366,'春风十里6号楼','2','244.34','5901.78' UNION ALL SELECT '泰安市',1513172366,'绿地公馆二组团2-3号楼','1','133.04','6100' UNION ALL SELECT '泰安市',1513172366,'泰山公馆1号楼','1','96.49','7495' UNION ALL SELECT '泰安市',1513172366,'青春创业开发区天房美郡国际城B区20号楼','1','107.02','5139.23' UNION ALL SELECT '泰安市',1513172366,'泰山清水湾D2号楼','1','308.04','7000' UNION ALL SELECT '泰安市',1513172366,'正嘉馨居1号楼','1','96.75','6323' UNION ALL SELECT '泰安市',1513172366,'大安·书香世家14号楼','2','230.5','5408.13' UNION ALL SELECT '泰安市',1513172366,'鼎峰瑞岳住宅小区二期28号楼','1','127.65','17974.67' UNION ALL SELECT '泰安市',1513172366,'中南世纪锦城6号楼','1','134.38','7463.23' UNION ALL SELECT '泰安市',1513172366,'绿地·云水谣1-7号楼','1','133.44','9600' UNION ALL SELECT '泰安市',1513172366,'嘉业·泰然居15号楼','2','238.16','5591.09' UNION ALL SELECT '泰安市',1513172366,'大展鸿府1号楼','2','203.8','6928.33' UNION ALL SELECT '泰安市',1513172366,'天颐湖蓝庭公馆14号楼','4','432.18','4511.22' UNION ALL SELECT '泰安市',1513172366,'上峪村旧村改造开发部分（卧龙大观）B17号楼','1','139.47','12186.4' UNION ALL SELECT '泰安市',1513172366,'泰山国际金融中心C栋住宅楼','1','40.98','9329.99' UNION ALL SELECT '泰安市',1513172366,'大安·书香世家22号楼','3','344.43','5991.16' UNION ALL SELECT '泰安市',1513172366,'青春创业开发区天房美郡国际城B区13号楼','1','107.84','5876.34' UNION ALL SELECT '泰安市',1513172366,'大安·书香世家12号楼','2','229.44','5217.05' [ RunTime:0.032558s ]
+[ 2017-12-13T21:39:54+08:00 ][ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T21:39:54+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T21:39:54+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T21:39:54+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-13T21:39:54+08:00 ][ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ 2017-12-13T21:39:54+08:00 ][ info ] [ DB ] INIT mysql
+[ 2017-12-13T21:39:54+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001450s ] mysql:host=192.168.2.122;port=3306;dbname=House;charset=utf8
+[ 2017-12-13T21:39:54+08:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `source` [ RunTime:0.002700s ]
+[ 2017-12-13T21:39:54+08:00 ][ sql ] [ SQL ] INSERT INTO `source` (`quyu` , `time` , `xiaoshoulouhao` , `chengjiaotaoshu` , `chengjiaomianji` , `chengjiaojunjia`) SELECT '泰安市',1513172394,'大安·书香世家15号楼','2','230.2','5315.8' UNION ALL SELECT '泰安市',1513172394,'上峪村旧村改造开发部分（卧龙大观）B14号楼','2','243.48','11068.95' UNION ALL SELECT '泰安市',1513172394,'大安·书香世家19号楼','4','485.3','5310.68' UNION ALL SELECT '泰安市',1513172394,'御泉大院12号楼','1','129.39','17421.35' UNION ALL SELECT '泰安市',1513172394,'青春创业开发区天房美郡国际城B区10号楼','1','107.84','7141.44' UNION ALL SELECT '泰安市',1513172394,'中南世纪锦城一期4号楼','1','137.75','6711' UNION ALL SELECT '泰安市',1513172394,'鼎峰瑞岳住宅小区二期25号楼','1','140.1','17250.36' UNION ALL SELECT '泰安市',1513172394,'鲁商中心D-03地块G9号楼G9号楼','9','1055.36','7634.1' UNION ALL SELECT '泰安市',1513172394,'青春创业开发区天房美郡国际城B区29号楼','1','126.62','7215.17' UNION ALL SELECT '泰安市',1513172394,'泰豪名城1号楼','1','93.69','6350.01' UNION ALL SELECT '泰安市',1513172394,'圣源华郡2号楼','1','102.52','17947.72' UNION ALL SELECT '泰安市',1513172394,'御泉大院5号楼','1','130.53','8039.17' UNION ALL SELECT '泰安市',1513172394,'嘉源居1号楼','7','858.27','4043.02' UNION ALL SELECT '泰安市',1513172394,'泰山·天竹佳苑6号楼','1','116.85','7387' UNION ALL SELECT '泰安市',1513172394,'嘉源居2号楼','37','4209.65','3972.22' UNION ALL SELECT '泰安市',1513172394,'绿地·云水谣2-6号楼','3','458.61','8624.96' UNION ALL SELECT '泰安市',1513172394,'御泉大院1号楼','1','124.02','10127.1' UNION ALL SELECT '泰安市',1513172394,'大安·书香世家住宅小区6号楼','1','111.23','3921.98' UNION ALL SELECT '泰安市',1513172394,'绿地·云水谣2-3号楼','7','976.25','7237.2' UNION ALL SELECT '泰安市',1513172394,'中南世纪锦城3号楼','1','128.84','7743.64' UNION ALL SELECT '泰安市',1513172394,'圣山大厦C座','1','59.97','6700' UNION ALL SELECT '泰安市',1513172394,'澎湖湾A区10号楼','1','91.75','4813.49' UNION ALL SELECT '泰安市',1513172394,'贤德苑住宅楼','1','99.7','6018' UNION ALL SELECT '泰安市',1513172394,'泮河小镇3号楼','1','94.52','8085.95' UNION ALL SELECT '泰安市',1513172394,'华益·东方新苑8号楼','1','96.55','5500' UNION ALL SELECT '泰安市',1513172394,'绿地·云水谣2-4号楼','3','460.5','6162.33' UNION ALL SELECT '泰安市',1513172394,'康平御园2号楼','1','94.54','6728.05' UNION ALL SELECT '泰安市',1513172394,'青春创业开发区天房美郡国际城B区12号楼','1','107.84','5755.3' UNION ALL SELECT '泰安市',1513172394,'泺亨国际居住区7号楼','1','87.21','6070.67' UNION ALL SELECT '泰安市',1513172394,'灵山大街以北、泮河西路以西V18号楼','2','243.02','10138.53' UNION ALL SELECT '泰安市',1513172394,'御泉大院6号楼','1','133.89','8470' UNION ALL SELECT '泰安市',1513172394,'绿地·云水谣2-5号楼','1','104.82','5460' UNION ALL SELECT '泰安市',1513172394,'春风十里6号楼','2','244.34','5901.78' UNION ALL SELECT '泰安市',1513172394,'绿地公馆二组团2-3号楼','1','133.04','6100' UNION ALL SELECT '泰安市',1513172394,'泰山公馆1号楼','1','96.49','7495' UNION ALL SELECT '泰安市',1513172394,'青春创业开发区天房美郡国际城B区20号楼','1','107.02','5139.23' UNION ALL SELECT '泰安市',1513172394,'泰山清水湾D2号楼','1','308.04','7000' UNION ALL SELECT '泰安市',1513172394,'正嘉馨居1号楼','1','96.75','6323' UNION ALL SELECT '泰安市',1513172394,'大安·书香世家14号楼','2','230.5','5408.13' UNION ALL SELECT '泰安市',1513172394,'鼎峰瑞岳住宅小区二期28号楼','1','127.65','17974.67' UNION ALL SELECT '泰安市',1513172394,'中南世纪锦城6号楼','1','134.38','7463.23' UNION ALL SELECT '泰安市',1513172394,'绿地·云水谣1-7号楼','1','133.44','9600' UNION ALL SELECT '泰安市',1513172394,'嘉业·泰然居15号楼','2','238.16','5591.09' UNION ALL SELECT '泰安市',1513172394,'大展鸿府1号楼','2','203.8','6928.33' UNION ALL SELECT '泰安市',1513172394,'天颐湖蓝庭公馆14号楼','4','432.18','4511.22' UNION ALL SELECT '泰安市',1513172394,'上峪村旧村改造开发部分（卧龙大观）B17号楼','1','139.47','12186.4' UNION ALL SELECT '泰安市',1513172394,'泰山国际金融中心C栋住宅楼','1','40.98','9329.99' UNION ALL SELECT '泰安市',1513172394,'大安·书香世家22号楼','3','344.43','5991.16' UNION ALL SELECT '泰安市',1513172394,'青春创业开发区天房美郡国际城B区13号楼','1','107.84','5876.34' UNION ALL SELECT '泰安市',1513172394,'大安·书香世家12号楼','2','229.44','5217.05' [ RunTime:0.011934s ]
+[ 2017-12-13T21:44:16+08:00 ][ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T21:44:16+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T21:44:16+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T21:44:16+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-13T21:44:16+08:00 ][ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ 2017-12-13T21:44:16+08:00 ][ info ] [ DB ] INIT mysql
+[ 2017-12-13T21:44:16+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001783s ] mysql:host=192.168.2.122;port=3306;dbname=House;charset=utf8
+[ 2017-12-13T21:44:16+08:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `source` [ RunTime:0.003211s ]
+[ 2017-12-13T21:44:16+08:00 ][ sql ] [ SQL ] INSERT INTO `source` (`quyu` , `time` , `xiaoshoulouhao` , `chengjiaotaoshu` , `chengjiaomianji` , `chengjiaojunjia`) SELECT '泰安市',1513172656,'大安·书香世家15号楼','2','230.2','5315.8' UNION ALL SELECT '泰安市',1513172656,'上峪村旧村改造开发部分（卧龙大观）B14号楼','2','243.48','11068.95' UNION ALL SELECT '泰安市',1513172656,'大安·书香世家19号楼','4','485.3','5310.68' UNION ALL SELECT '泰安市',1513172656,'御泉大院12号楼','1','129.39','17421.35' UNION ALL SELECT '泰安市',1513172656,'青春创业开发区天房美郡国际城B区10号楼','1','107.84','7141.44' UNION ALL SELECT '泰安市',1513172656,'中南世纪锦城一期4号楼','1','137.75','6711' UNION ALL SELECT '泰安市',1513172656,'鼎峰瑞岳住宅小区二期25号楼','1','140.1','17250.36' UNION ALL SELECT '泰安市',1513172656,'鲁商中心D-03地块G9号楼G9号楼','9','1055.36','7634.1' UNION ALL SELECT '泰安市',1513172656,'青春创业开发区天房美郡国际城B区29号楼','1','126.62','7215.17' UNION ALL SELECT '泰安市',1513172656,'泰豪名城1号楼','1','93.69','6350.01' UNION ALL SELECT '泰安市',1513172656,'圣源华郡2号楼','1','102.52','17947.72' UNION ALL SELECT '泰安市',1513172656,'御泉大院5号楼','1','130.53','8039.17' UNION ALL SELECT '泰安市',1513172656,'嘉源居1号楼','7','858.27','4043.02' UNION ALL SELECT '泰安市',1513172656,'泰山·天竹佳苑6号楼','1','116.85','7387' UNION ALL SELECT '泰安市',1513172656,'嘉源居2号楼','37','4209.65','3972.22' UNION ALL SELECT '泰安市',1513172656,'绿地·云水谣2-6号楼','3','458.61','8624.96' UNION ALL SELECT '泰安市',1513172656,'御泉大院1号楼','1','124.02','10127.1' UNION ALL SELECT '泰安市',1513172656,'大安·书香世家住宅小区6号楼','1','111.23','3921.98' UNION ALL SELECT '泰安市',1513172656,'绿地·云水谣2-3号楼','7','976.25','7237.2' UNION ALL SELECT '泰安市',1513172656,'中南世纪锦城3号楼','1','128.84','7743.64' UNION ALL SELECT '泰安市',1513172656,'圣山大厦C座','1','59.97','6700' UNION ALL SELECT '泰安市',1513172656,'澎湖湾A区10号楼','1','91.75','4813.49' UNION ALL SELECT '泰安市',1513172656,'贤德苑住宅楼','1','99.7','6018' UNION ALL SELECT '泰安市',1513172656,'泮河小镇3号楼','1','94.52','8085.95' UNION ALL SELECT '泰安市',1513172656,'华益·东方新苑8号楼','1','96.55','5500' UNION ALL SELECT '泰安市',1513172656,'绿地·云水谣2-4号楼','3','460.5','6162.33' UNION ALL SELECT '泰安市',1513172656,'康平御园2号楼','1','94.54','6728.05' UNION ALL SELECT '泰安市',1513172656,'青春创业开发区天房美郡国际城B区12号楼','1','107.84','5755.3' UNION ALL SELECT '泰安市',1513172656,'泺亨国际居住区7号楼','1','87.21','6070.67' UNION ALL SELECT '泰安市',1513172656,'灵山大街以北、泮河西路以西V18号楼','2','243.02','10138.53' UNION ALL SELECT '泰安市',1513172656,'御泉大院6号楼','1','133.89','8470' UNION ALL SELECT '泰安市',1513172656,'绿地·云水谣2-5号楼','1','104.82','5460' UNION ALL SELECT '泰安市',1513172656,'春风十里6号楼','2','244.34','5901.78' UNION ALL SELECT '泰安市',1513172656,'绿地公馆二组团2-3号楼','1','133.04','6100' UNION ALL SELECT '泰安市',1513172656,'泰山公馆1号楼','1','96.49','7495' UNION ALL SELECT '泰安市',1513172656,'青春创业开发区天房美郡国际城B区20号楼','1','107.02','5139.23' UNION ALL SELECT '泰安市',1513172656,'泰山清水湾D2号楼','1','308.04','7000' UNION ALL SELECT '泰安市',1513172656,'正嘉馨居1号楼','1','96.75','6323' UNION ALL SELECT '泰安市',1513172656,'大安·书香世家14号楼','2','230.5','5408.13' UNION ALL SELECT '泰安市',1513172656,'鼎峰瑞岳住宅小区二期28号楼','1','127.65','17974.67' UNION ALL SELECT '泰安市',1513172656,'中南世纪锦城6号楼','1','134.38','7463.23' UNION ALL SELECT '泰安市',1513172656,'绿地·云水谣1-7号楼','1','133.44','9600' UNION ALL SELECT '泰安市',1513172656,'嘉业·泰然居15号楼','2','238.16','5591.09' UNION ALL SELECT '泰安市',1513172656,'大展鸿府1号楼','2','203.8','6928.33' UNION ALL SELECT '泰安市',1513172656,'天颐湖蓝庭公馆14号楼','4','432.18','4511.22' UNION ALL SELECT '泰安市',1513172656,'上峪村旧村改造开发部分（卧龙大观）B17号楼','1','139.47','12186.4' UNION ALL SELECT '泰安市',1513172656,'泰山国际金融中心C栋住宅楼','1','40.98','9329.99' UNION ALL SELECT '泰安市',1513172656,'大安·书香世家22号楼','3','344.43','5991.16' UNION ALL SELECT '泰安市',1513172656,'青春创业开发区天房美郡国际城B区13号楼','1','107.84','5876.34' UNION ALL SELECT '泰安市',1513172656,'大安·书香世家12号楼','2','229.44','5217.05' [ RunTime:0.021666s ]
+[ 2017-12-13T21:49:30+08:00 ][ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T21:49:30+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T21:49:30+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T21:49:30+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-13T21:49:30+08:00 ][ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ 2017-12-13T21:49:31+08:00 ][ info ] [ DB ] INIT mysql
+[ 2017-12-13T21:49:31+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001337s ] mysql:host=192.168.2.122;port=3306;dbname=House;charset=utf8
+[ 2017-12-13T21:49:31+08:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `source` [ RunTime:0.002566s ]
+[ 2017-12-13T21:49:31+08:00 ][ sql ] [ SQL ] INSERT INTO `source` (`quyu` , `time` , `xiaoshoulouhao` , `chengjiaotaoshu` , `chengjiaomianji` , `chengjiaojunjia`) SELECT '泰安市',1513172971,'大安·书香世家15号楼','2','230.2','5315.8' UNION ALL SELECT '泰安市',1513172971,'上峪村旧村改造开发部分（卧龙大观）B14号楼','2','243.48','11068.95' UNION ALL SELECT '泰安市',1513172971,'大安·书香世家19号楼','4','485.3','5310.68' UNION ALL SELECT '泰安市',1513172971,'御泉大院12号楼','1','129.39','17421.35' UNION ALL SELECT '泰安市',1513172971,'青春创业开发区天房美郡国际城B区10号楼','1','107.84','7141.44' UNION ALL SELECT '泰安市',1513172971,'中南世纪锦城一期4号楼','1','137.75','6711' UNION ALL SELECT '泰安市',1513172971,'鼎峰瑞岳住宅小区二期25号楼','1','140.1','17250.36' UNION ALL SELECT '泰安市',1513172971,'鲁商中心D-03地块G9号楼G9号楼','9','1055.36','7634.1' UNION ALL SELECT '泰安市',1513172971,'青春创业开发区天房美郡国际城B区29号楼','1','126.62','7215.17' UNION ALL SELECT '泰安市',1513172971,'泰豪名城1号楼','1','93.69','6350.01' UNION ALL SELECT '泰安市',1513172971,'圣源华郡2号楼','1','102.52','17947.72' UNION ALL SELECT '泰安市',1513172971,'御泉大院5号楼','1','130.53','8039.17' UNION ALL SELECT '泰安市',1513172971,'嘉源居1号楼','7','858.27','4043.02' UNION ALL SELECT '泰安市',1513172971,'泰山·天竹佳苑6号楼','1','116.85','7387' UNION ALL SELECT '泰安市',1513172971,'嘉源居2号楼','37','4209.65','3972.22' UNION ALL SELECT '泰安市',1513172971,'绿地·云水谣2-6号楼','3','458.61','8624.96' UNION ALL SELECT '泰安市',1513172971,'御泉大院1号楼','1','124.02','10127.1' UNION ALL SELECT '泰安市',1513172971,'大安·书香世家住宅小区6号楼','1','111.23','3921.98' UNION ALL SELECT '泰安市',1513172971,'绿地·云水谣2-3号楼','7','976.25','7237.2' UNION ALL SELECT '泰安市',1513172971,'中南世纪锦城3号楼','1','128.84','7743.64' UNION ALL SELECT '泰安市',1513172971,'圣山大厦C座','1','59.97','6700' UNION ALL SELECT '泰安市',1513172971,'澎湖湾A区10号楼','1','91.75','4813.49' UNION ALL SELECT '泰安市',1513172971,'贤德苑住宅楼','1','99.7','6018' UNION ALL SELECT '泰安市',1513172971,'泮河小镇3号楼','1','94.52','8085.95' UNION ALL SELECT '泰安市',1513172971,'华益·东方新苑8号楼','1','96.55','5500' UNION ALL SELECT '泰安市',1513172971,'绿地·云水谣2-4号楼','3','460.5','6162.33' UNION ALL SELECT '泰安市',1513172971,'康平御园2号楼','1','94.54','6728.05' UNION ALL SELECT '泰安市',1513172971,'青春创业开发区天房美郡国际城B区12号楼','1','107.84','5755.3' UNION ALL SELECT '泰安市',1513172971,'泺亨国际居住区7号楼','1','87.21','6070.67' UNION ALL SELECT '泰安市',1513172971,'灵山大街以北、泮河西路以西V18号楼','2','243.02','10138.53' UNION ALL SELECT '泰安市',1513172971,'御泉大院6号楼','1','133.89','8470' UNION ALL SELECT '泰安市',1513172971,'绿地·云水谣2-5号楼','1','104.82','5460' UNION ALL SELECT '泰安市',1513172971,'春风十里6号楼','2','244.34','5901.78' UNION ALL SELECT '泰安市',1513172971,'绿地公馆二组团2-3号楼','1','133.04','6100' UNION ALL SELECT '泰安市',1513172971,'泰山公馆1号楼','1','96.49','7495' UNION ALL SELECT '泰安市',1513172971,'青春创业开发区天房美郡国际城B区20号楼','1','107.02','5139.23' UNION ALL SELECT '泰安市',1513172971,'泰山清水湾D2号楼','1','308.04','7000' UNION ALL SELECT '泰安市',1513172971,'正嘉馨居1号楼','1','96.75','6323' UNION ALL SELECT '泰安市',1513172971,'大安·书香世家14号楼','2','230.5','5408.13' UNION ALL SELECT '泰安市',1513172971,'鼎峰瑞岳住宅小区二期28号楼','1','127.65','17974.67' UNION ALL SELECT '泰安市',1513172971,'中南世纪锦城6号楼','1','134.38','7463.23' UNION ALL SELECT '泰安市',1513172971,'绿地·云水谣1-7号楼','1','133.44','9600' UNION ALL SELECT '泰安市',1513172971,'嘉业·泰然居15号楼','2','238.16','5591.09' UNION ALL SELECT '泰安市',1513172971,'大展鸿府1号楼','2','203.8','6928.33' UNION ALL SELECT '泰安市',1513172971,'天颐湖蓝庭公馆14号楼','4','432.18','4511.22' UNION ALL SELECT '泰安市',1513172971,'上峪村旧村改造开发部分（卧龙大观）B17号楼','1','139.47','12186.4' UNION ALL SELECT '泰安市',1513172971,'泰山国际金融中心C栋住宅楼','1','40.98','9329.99' UNION ALL SELECT '泰安市',1513172971,'大安·书香世家22号楼','3','344.43','5991.16' UNION ALL SELECT '泰安市',1513172971,'青春创业开发区天房美郡国际城B区13号楼','1','107.84','5876.34' UNION ALL SELECT '泰安市',1513172971,'大安·书香世家12号楼','2','229.44','5217.05' [ RunTime:0.035075s ]
+[ 2017-12-13T21:49:46+08:00 ][ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T21:49:46+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T21:49:46+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T21:49:46+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-13T21:49:46+08:00 ][ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ 2017-12-13T21:49:46+08:00 ][ info ] [ DB ] INIT mysql
+[ 2017-12-13T21:49:46+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001071s ] mysql:host=192.168.2.122;port=3306;dbname=House;charset=utf8
+[ 2017-12-13T21:49:46+08:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `source` [ RunTime:0.001699s ]
+[ 2017-12-13T21:49:46+08:00 ][ sql ] [ SQL ] INSERT INTO `source` (`quyu` , `time` , `xiaoshoulouhao` , `chengjiaotaoshu` , `chengjiaomianji` , `chengjiaojunjia`) SELECT '泰安市',1513172986,'大安·书香世家15号楼','2','230.2','5315.8' UNION ALL SELECT '泰安市',1513172986,'上峪村旧村改造开发部分（卧龙大观）B14号楼','2','243.48','11068.95' UNION ALL SELECT '泰安市',1513172986,'大安·书香世家19号楼','4','485.3','5310.68' UNION ALL SELECT '泰安市',1513172986,'御泉大院12号楼','1','129.39','17421.35' UNION ALL SELECT '泰安市',1513172986,'青春创业开发区天房美郡国际城B区10号楼','1','107.84','7141.44' UNION ALL SELECT '泰安市',1513172986,'中南世纪锦城一期4号楼','1','137.75','6711' UNION ALL SELECT '泰安市',1513172986,'鼎峰瑞岳住宅小区二期25号楼','1','140.1','17250.36' UNION ALL SELECT '泰安市',1513172986,'鲁商中心D-03地块G9号楼G9号楼','9','1055.36','7634.1' UNION ALL SELECT '泰安市',1513172986,'青春创业开发区天房美郡国际城B区29号楼','1','126.62','7215.17' UNION ALL SELECT '泰安市',1513172986,'泰豪名城1号楼','1','93.69','6350.01' UNION ALL SELECT '泰安市',1513172986,'圣源华郡2号楼','1','102.52','17947.72' UNION ALL SELECT '泰安市',1513172986,'御泉大院5号楼','1','130.53','8039.17' UNION ALL SELECT '泰安市',1513172986,'嘉源居1号楼','7','858.27','4043.02' UNION ALL SELECT '泰安市',1513172986,'泰山·天竹佳苑6号楼','1','116.85','7387' UNION ALL SELECT '泰安市',1513172986,'嘉源居2号楼','37','4209.65','3972.22' UNION ALL SELECT '泰安市',1513172986,'绿地·云水谣2-6号楼','3','458.61','8624.96' UNION ALL SELECT '泰安市',1513172986,'御泉大院1号楼','1','124.02','10127.1' UNION ALL SELECT '泰安市',1513172986,'大安·书香世家住宅小区6号楼','1','111.23','3921.98' UNION ALL SELECT '泰安市',1513172986,'绿地·云水谣2-3号楼','7','976.25','7237.2' UNION ALL SELECT '泰安市',1513172986,'中南世纪锦城3号楼','1','128.84','7743.64' UNION ALL SELECT '泰安市',1513172986,'圣山大厦C座','1','59.97','6700' UNION ALL SELECT '泰安市',1513172986,'澎湖湾A区10号楼','1','91.75','4813.49' UNION ALL SELECT '泰安市',1513172986,'贤德苑住宅楼','1','99.7','6018' UNION ALL SELECT '泰安市',1513172986,'泮河小镇3号楼','1','94.52','8085.95' UNION ALL SELECT '泰安市',1513172986,'华益·东方新苑8号楼','1','96.55','5500' UNION ALL SELECT '泰安市',1513172986,'绿地·云水谣2-4号楼','3','460.5','6162.33' UNION ALL SELECT '泰安市',1513172986,'康平御园2号楼','1','94.54','6728.05' UNION ALL SELECT '泰安市',1513172986,'青春创业开发区天房美郡国际城B区12号楼','1','107.84','5755.3' UNION ALL SELECT '泰安市',1513172986,'泺亨国际居住区7号楼','1','87.21','6070.67' UNION ALL SELECT '泰安市',1513172986,'灵山大街以北、泮河西路以西V18号楼','2','243.02','10138.53' UNION ALL SELECT '泰安市',1513172986,'御泉大院6号楼','1','133.89','8470' UNION ALL SELECT '泰安市',1513172986,'绿地·云水谣2-5号楼','1','104.82','5460' UNION ALL SELECT '泰安市',1513172986,'春风十里6号楼','2','244.34','5901.78' UNION ALL SELECT '泰安市',1513172986,'绿地公馆二组团2-3号楼','1','133.04','6100' UNION ALL SELECT '泰安市',1513172986,'泰山公馆1号楼','1','96.49','7495' UNION ALL SELECT '泰安市',1513172986,'青春创业开发区天房美郡国际城B区20号楼','1','107.02','5139.23' UNION ALL SELECT '泰安市',1513172986,'泰山清水湾D2号楼','1','308.04','7000' UNION ALL SELECT '泰安市',1513172986,'正嘉馨居1号楼','1','96.75','6323' UNION ALL SELECT '泰安市',1513172986,'大安·书香世家14号楼','2','230.5','5408.13' UNION ALL SELECT '泰安市',1513172986,'鼎峰瑞岳住宅小区二期28号楼','1','127.65','17974.67' UNION ALL SELECT '泰安市',1513172986,'中南世纪锦城6号楼','1','134.38','7463.23' UNION ALL SELECT '泰安市',1513172986,'绿地·云水谣1-7号楼','1','133.44','9600' UNION ALL SELECT '泰安市',1513172986,'嘉业·泰然居15号楼','2','238.16','5591.09' UNION ALL SELECT '泰安市',1513172986,'大展鸿府1号楼','2','203.8','6928.33' UNION ALL SELECT '泰安市',1513172986,'天颐湖蓝庭公馆14号楼','4','432.18','4511.22' UNION ALL SELECT '泰安市',1513172986,'上峪村旧村改造开发部分（卧龙大观）B17号楼','1','139.47','12186.4' UNION ALL SELECT '泰安市',1513172986,'泰山国际金融中心C栋住宅楼','1','40.98','9329.99' UNION ALL SELECT '泰安市',1513172986,'大安·书香世家22号楼','3','344.43','5991.16' UNION ALL SELECT '泰安市',1513172986,'青春创业开发区天房美郡国际城B区13号楼','1','107.84','5876.34' UNION ALL SELECT '泰安市',1513172986,'大安·书香世家12号楼','2','229.44','5217.05' [ RunTime:0.006940s ]
+[ 2017-12-13T21:50:02+08:00 ][ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T21:50:02+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T21:50:02+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T21:50:02+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-13T21:50:02+08:00 ][ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ 2017-12-13T21:50:03+08:00 ][ info ] [ DB ] INIT mysql
+[ 2017-12-13T21:50:03+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001123s ] mysql:host=192.168.2.122;port=3306;dbname=House;charset=utf8
+[ 2017-12-13T21:50:03+08:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `source` [ RunTime:0.001726s ]
+[ 2017-12-13T21:50:03+08:00 ][ sql ] [ SQL ] INSERT INTO `source` (`quyu` , `time` , `xiaoshoulouhao` , `chengjiaotaoshu` , `chengjiaomianji` , `chengjiaojunjia`) SELECT '泰安市',1513173003,'大安·书香世家15号楼','2','230.2','5315.8' UNION ALL SELECT '泰安市',1513173003,'上峪村旧村改造开发部分（卧龙大观）B14号楼','2','243.48','11068.95' UNION ALL SELECT '泰安市',1513173003,'大安·书香世家19号楼','4','485.3','5310.68' UNION ALL SELECT '泰安市',1513173003,'御泉大院12号楼','1','129.39','17421.35' UNION ALL SELECT '泰安市',1513173003,'青春创业开发区天房美郡国际城B区10号楼','1','107.84','7141.44' UNION ALL SELECT '泰安市',1513173003,'中南世纪锦城一期4号楼','1','137.75','6711' UNION ALL SELECT '泰安市',1513173003,'鼎峰瑞岳住宅小区二期25号楼','1','140.1','17250.36' UNION ALL SELECT '泰安市',1513173003,'鲁商中心D-03地块G9号楼G9号楼','9','1055.36','7634.1' UNION ALL SELECT '泰安市',1513173003,'青春创业开发区天房美郡国际城B区29号楼','1','126.62','7215.17' UNION ALL SELECT '泰安市',1513173003,'泰豪名城1号楼','1','93.69','6350.01' UNION ALL SELECT '泰安市',1513173003,'圣源华郡2号楼','1','102.52','17947.72' UNION ALL SELECT '泰安市',1513173003,'御泉大院5号楼','1','130.53','8039.17' UNION ALL SELECT '泰安市',1513173003,'嘉源居1号楼','7','858.27','4043.02' UNION ALL SELECT '泰安市',1513173003,'泰山·天竹佳苑6号楼','1','116.85','7387' UNION ALL SELECT '泰安市',1513173003,'嘉源居2号楼','37','4209.65','3972.22' UNION ALL SELECT '泰安市',1513173003,'绿地·云水谣2-6号楼','3','458.61','8624.96' UNION ALL SELECT '泰安市',1513173003,'御泉大院1号楼','1','124.02','10127.1' UNION ALL SELECT '泰安市',1513173003,'大安·书香世家住宅小区6号楼','1','111.23','3921.98' UNION ALL SELECT '泰安市',1513173003,'绿地·云水谣2-3号楼','7','976.25','7237.2' UNION ALL SELECT '泰安市',1513173003,'中南世纪锦城3号楼','1','128.84','7743.64' UNION ALL SELECT '泰安市',1513173003,'圣山大厦C座','1','59.97','6700' UNION ALL SELECT '泰安市',1513173003,'澎湖湾A区10号楼','1','91.75','4813.49' UNION ALL SELECT '泰安市',1513173003,'贤德苑住宅楼','1','99.7','6018' UNION ALL SELECT '泰安市',1513173003,'泮河小镇3号楼','1','94.52','8085.95' UNION ALL SELECT '泰安市',1513173003,'华益·东方新苑8号楼','1','96.55','5500' UNION ALL SELECT '泰安市',1513173003,'绿地·云水谣2-4号楼','3','460.5','6162.33' UNION ALL SELECT '泰安市',1513173003,'康平御园2号楼','1','94.54','6728.05' UNION ALL SELECT '泰安市',1513173003,'青春创业开发区天房美郡国际城B区12号楼','1','107.84','5755.3' UNION ALL SELECT '泰安市',1513173003,'泺亨国际居住区7号楼','1','87.21','6070.67' UNION ALL SELECT '泰安市',1513173003,'灵山大街以北、泮河西路以西V18号楼','2','243.02','10138.53' UNION ALL SELECT '泰安市',1513173003,'御泉大院6号楼','1','133.89','8470' UNION ALL SELECT '泰安市',1513173003,'绿地·云水谣2-5号楼','1','104.82','5460' UNION ALL SELECT '泰安市',1513173003,'春风十里6号楼','2','244.34','5901.78' UNION ALL SELECT '泰安市',1513173003,'绿地公馆二组团2-3号楼','1','133.04','6100' UNION ALL SELECT '泰安市',1513173003,'泰山公馆1号楼','1','96.49','7495' UNION ALL SELECT '泰安市',1513173003,'青春创业开发区天房美郡国际城B区20号楼','1','107.02','5139.23' UNION ALL SELECT '泰安市',1513173003,'泰山清水湾D2号楼','1','308.04','7000' UNION ALL SELECT '泰安市',1513173003,'正嘉馨居1号楼','1','96.75','6323' UNION ALL SELECT '泰安市',1513173003,'大安·书香世家14号楼','2','230.5','5408.13' UNION ALL SELECT '泰安市',1513173003,'鼎峰瑞岳住宅小区二期28号楼','1','127.65','17974.67' UNION ALL SELECT '泰安市',1513173003,'中南世纪锦城6号楼','1','134.38','7463.23' UNION ALL SELECT '泰安市',1513173003,'绿地·云水谣1-7号楼','1','133.44','9600' UNION ALL SELECT '泰安市',1513173003,'嘉业·泰然居15号楼','2','238.16','5591.09' UNION ALL SELECT '泰安市',1513173003,'大展鸿府1号楼','2','203.8','6928.33' UNION ALL SELECT '泰安市',1513173003,'天颐湖蓝庭公馆14号楼','4','432.18','4511.22' UNION ALL SELECT '泰安市',1513173003,'上峪村旧村改造开发部分（卧龙大观）B17号楼','1','139.47','12186.4' UNION ALL SELECT '泰安市',1513173003,'泰山国际金融中心C栋住宅楼','1','40.98','9329.99' UNION ALL SELECT '泰安市',1513173003,'大安·书香世家22号楼','3','344.43','5991.16' UNION ALL SELECT '泰安市',1513173003,'青春创业开发区天房美郡国际城B区13号楼','1','107.84','5876.34' UNION ALL SELECT '泰安市',1513173003,'大安·书香世家12号楼','2','229.44','5217.05' [ RunTime:0.015371s ]
+[ 2017-12-13T21:54:20+08:00 ][ info ] [ LANG ] /data/www/thinkphp_core/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File
+[ 2017-12-13T21:54:20+08:00 ][ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ 2017-12-13T21:54:20+08:00 ][ info ] [ HEADER ] array (
+)
+[ 2017-12-13T21:54:20+08:00 ][ info ] [ PARAM ] array (
+)
+[ 2017-12-13T21:54:20+08:00 ][ info ] [ RUN ] app\index\controller\Index->index[ /data/www/ant/application/index/controller/Index.php ]
+[ 2017-12-13T21:54:20+08:00 ][ info ] [ DB ] INIT mysql
+[ 2017-12-13T21:54:20+08:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001100s ] mysql:host=192.168.2.122;port=3306;dbname=House;charset=utf8
+[ 2017-12-13T21:54:20+08:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `source` [ RunTime:0.001993s ]
+[ 2017-12-13T21:54:20+08:00 ][ sql ] [ SQL ] INSERT INTO `source` (`quyu` , `time` , `xiaoshoulouhao` , `chengjiaotaoshu` , `chengjiaomianji` , `chengjiaojunjia`) SELECT '泰安市',1513173260,'大安·书香世家15号楼','2','230.2','5315.8' UNION ALL SELECT '泰安市',1513173260,'上峪村旧村改造开发部分（卧龙大观）B14号楼','2','243.48','11068.95' UNION ALL SELECT '泰安市',1513173260,'大安·书香世家19号楼','4','485.3','5310.68' UNION ALL SELECT '泰安市',1513173260,'御泉大院12号楼','1','129.39','17421.35' UNION ALL SELECT '泰安市',1513173260,'青春创业开发区天房美郡国际城B区10号楼','1','107.84','7141.44' UNION ALL SELECT '泰安市',1513173260,'中南世纪锦城一期4号楼','1','137.75','6711' UNION ALL SELECT '泰安市',1513173260,'鼎峰瑞岳住宅小区二期25号楼','1','140.1','17250.36' UNION ALL SELECT '泰安市',1513173260,'鲁商中心D-03地块G9号楼G9号楼','9','1055.36','7634.1' UNION ALL SELECT '泰安市',1513173260,'青春创业开发区天房美郡国际城B区29号楼','1','126.62','7215.17' UNION ALL SELECT '泰安市',1513173260,'泰豪名城1号楼','1','93.69','6350.01' UNION ALL SELECT '泰安市',1513173260,'圣源华郡2号楼','1','102.52','17947.72' UNION ALL SELECT '泰安市',1513173260,'御泉大院5号楼','1','130.53','8039.17' UNION ALL SELECT '泰安市',1513173260,'嘉源居1号楼','7','858.27','4043.02' UNION ALL SELECT '泰安市',1513173260,'泰山·天竹佳苑6号楼','1','116.85','7387' UNION ALL SELECT '泰安市',1513173260,'嘉源居2号楼','37','4209.65','3972.22' UNION ALL SELECT '泰安市',1513173260,'绿地·云水谣2-6号楼','3','458.61','8624.96' UNION ALL SELECT '泰安市',1513173260,'御泉大院1号楼','1','124.02','10127.1' UNION ALL SELECT '泰安市',1513173260,'大安·书香世家住宅小区6号楼','1','111.23','3921.98' UNION ALL SELECT '泰安市',1513173260,'绿地·云水谣2-3号楼','7','976.25','7237.2' UNION ALL SELECT '泰安市',1513173260,'中南世纪锦城3号楼','1','128.84','7743.64' UNION ALL SELECT '泰安市',1513173260,'圣山大厦C座','1','59.97','6700' UNION ALL SELECT '泰安市',1513173260,'澎湖湾A区10号楼','1','91.75','4813.49' UNION ALL SELECT '泰安市',1513173260,'贤德苑住宅楼','1','99.7','6018' UNION ALL SELECT '泰安市',1513173260,'泮河小镇3号楼','1','94.52','8085.95' UNION ALL SELECT '泰安市',1513173260,'华益·东方新苑8号楼','1','96.55','5500' UNION ALL SELECT '泰安市',1513173260,'绿地·云水谣2-4号楼','3','460.5','6162.33' UNION ALL SELECT '泰安市',1513173260,'康平御园2号楼','1','94.54','6728.05' UNION ALL SELECT '泰安市',1513173260,'青春创业开发区天房美郡国际城B区12号楼','1','107.84','5755.3' UNION ALL SELECT '泰安市',1513173260,'泺亨国际居住区7号楼','1','87.21','6070.67' UNION ALL SELECT '泰安市',1513173260,'灵山大街以北、泮河西路以西V18号楼','2','243.02','10138.53' UNION ALL SELECT '泰安市',1513173260,'御泉大院6号楼','1','133.89','8470' UNION ALL SELECT '泰安市',1513173260,'绿地·云水谣2-5号楼','1','104.82','5460' UNION ALL SELECT '泰安市',1513173260,'春风十里6号楼','2','244.34','5901.78' UNION ALL SELECT '泰安市',1513173260,'绿地公馆二组团2-3号楼','1','133.04','6100' UNION ALL SELECT '泰安市',1513173260,'泰山公馆1号楼','1','96.49','7495' UNION ALL SELECT '泰安市',1513173260,'青春创业开发区天房美郡国际城B区20号楼','1','107.02','5139.23' UNION ALL SELECT '泰安市',1513173260,'泰山清水湾D2号楼','1','308.04','7000' UNION ALL SELECT '泰安市',1513173260,'正嘉馨居1号楼','1','96.75','6323' UNION ALL SELECT '泰安市',1513173260,'大安·书香世家14号楼','2','230.5','5408.13' UNION ALL SELECT '泰安市',1513173260,'鼎峰瑞岳住宅小区二期28号楼','1','127.65','17974.67' UNION ALL SELECT '泰安市',1513173260,'中南世纪锦城6号楼','1','134.38','7463.23' UNION ALL SELECT '泰安市',1513173260,'绿地·云水谣1-7号楼','1','133.44','9600' UNION ALL SELECT '泰安市',1513173260,'嘉业·泰然居15号楼','2','238.16','5591.09' UNION ALL SELECT '泰安市',1513173260,'大展鸿府1号楼','2','203.8','6928.33' UNION ALL SELECT '泰安市',1513173260,'天颐湖蓝庭公馆14号楼','4','432.18','4511.22' UNION ALL SELECT '泰安市',1513173260,'上峪村旧村改造开发部分（卧龙大观）B17号楼','1','139.47','12186.4' UNION ALL SELECT '泰安市',1513173260,'泰山国际金融中心C栋住宅楼','1','40.98','9329.99' UNION ALL SELECT '泰安市',1513173260,'大安·书香世家22号楼','3','344.43','5991.16' UNION ALL SELECT '泰安市',1513173260,'青春创业开发区天房美郡国际城B区13号楼','1','107.84','5876.34' UNION ALL SELECT '泰安市',1513173260,'大安·书香世家12号楼','2','229.44','5217.05' [ RunTime:0.005492s ]

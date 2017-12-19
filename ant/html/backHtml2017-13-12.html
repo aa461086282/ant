@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script language="javascript" src="/reisPub/js/lib/ext/jquery.js"></script>
+<script language="javascript" src="/reisPub/js/pub/creditBehaviorList.js"></script>
+<title>楼盘房屋价格公示</title>
+<link href="/reisPub/css/pub/base.css" rel="stylesheet">
+<style type=text/css>
+
+.column_search {
+	background: url(../images/pub/column_search_bg.png) repeat-x bottom;
+	border: 1px solid #d4d4d4;
+}
+
+.title_search {
+	height: 34px;
+	color: #103747;
+	font-size: 14px;
+	font-family: "宋体";
+	line-height: 38px;
+	overflow: hidden;
+	text-indent: 34px;
+}
+
+#data_table_2 tr th {
+	background: url("../images/pub/data_table_th.png") repeat-x scroll center
+		bottom #F1F9FE;
+	border-bottom: 1px solid #CFCFCF;
+	border-right: 1px solid #CFCFCF;
+	color: #2C2C2C;
+	font-weight: normal;
+	line-height: 30px;
+	padding-left: 8px;
+	padding-right: 8px;
+}
+
+#data_table_2 tr td {
+	border-bottom: 1px solid #CFCFCF;
+	border-right: 1px solid #CFCFCF;
+	color: #696969;
+	height: 40px;
+	line-height: 15px;
+	padding-left: 1px;
+	padding-right: 1px;
+}
+
+a:visited {
+	color: #333333;
+	text-decoration: none;
+	font-size: 12px;
+}
+
+a:link {
+	color: #333333;
+	text-decoration: none;
+	font-size: 12px;
+}
+
+.title_search .more {
+	float: right;
+}
+
+.newli {
+	background-color: #0071bf;
+	border-color: #d4d4d4;
+	border-style: solid;
+	border-width: 1px;
+	color: #999999;
+	cursor: pointer;
+	display: inline;
+	float: left;
+	height: 25px;
+	line-height: 25px;
+	margin-left: 6px;
+	margin-top: 6px;
+	padding: 0 7px;
+}
+
+.all_news_li {
+	border-color: #d4d4d4;
+	border-style: solid;
+	border-width: 1px;
+	color: #999999;
+	cursor: pointer;
+	display: inline;
+	float: left;
+	height: 25px;
+	line-height: 25px;
+	margin-left: 6px;
+	margin-top: 6px;
+	padding: 0 7px;
+}
+.houses_table tr td .noselect{
+	text-align: center;
+	background: url(../images/pub/xzqlBtnBg.gif) no-repeat;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	padding-top:7px;
+	width: 142px;
+	height: 30px;
+	cursor: pointer;
+}
+.houses_table tr td .select{
+	text-align: center;
+	background: url(../images/pub/xzqlBtnBgon.gif) no-repeat;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	padding-top:7px;
+	width: 142px;
+	height: 30px;
+	cursor: pointer;
+}
+</style>
+
+<!-- Bootstrap -->
+<script language="javascript">
+	function averageDailyStatist(statisttype, designUsages) {
+		location.href = "averageDailyStatist?statisttype=" + statisttype+"&designUsages="+designUsages;
+	}
+	function averageDailyStatist1(e, statisttype, designUsages) {
+		$(e).parents("ul").find("li").removeClass("newli");
+		$(e).parents("ul").find("li").addClass("all_news_li");
+		$(e).parents('li').addClass("newli");
+		location.href = "averageDailyStatist?statisttype=" + statisttype+"&designUsages="+designUsages;
+	}
+</script>
+</head>
+<body>
+
+	<div class="dqwz">
+		<div class="dqwz_nr">
+			当前位置：<a href="/reisPub/pub/welcome">首页</a> &gt;&gt;<a href="/reisPub/pub/averageDailyStatist?statisttype=1&designUsages=1">
+				楼盘房屋价格公示</a>
+		</div>
+	</div>
+
+	<div class="mkdh">
+	  <div class="title">	楼盘房屋价格公示</div>
+	</div>
+
+	<div class="column_search">
+		<div class="tiaojian" style="margin-top: 10px;align:center;">
+			<table cellspacing="0" cellpadding="0" border="0" align="center" class="houses_table">
+				<tbody>
+					<tr>
+						<td>
+							<div align="center" class="select" onclick="averageDailyStatist(1,1)">
+								昨日交易均价
+							</div>
+						</td>
+						<td>
+							<div align="center" class="noselect" onclick="averageDailyStatist(2,1)">
+								今日交易均价
+							</div>
+						</td>
+						<td>
+							<div align="center" class="noselect" onclick="averageDailyStatist(3,1)">
+								当月交易均价
+							</div>
+						</td>
+						<td>
+							<div align="center" class="noselect" onclick="averageDailyStatist(4,1)">
+								当年交易均价
+							</div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+		</div>
+	</div>
+	<div class="column_search">
+		<div class="tiaojian" style="margin-top: 10px;align:center;">
+			<table cellspacing="0" cellpadding="0" border="0" align="center" class="houses_table">
+				<tbody>
+					<tr>
+						<td>
+							<div align="center" class="select" onclick=averageDailyStatist1(this,1,1)>
+								住宅
+							</div>
+						</td>
+						<td>
+							<div align="center" class="noselect" onclick=averageDailyStatist1(this,1,2)>
+								办公用房
+							</div>
+						</td>
+						<td>
+							<div align="center" class="noselect" onclick=averageDailyStatist1(this,1,3)>
+								商业用房
+							</div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+		</div>
+	</div>
+	<br>
+	<div class="column_search_result">
+
+		<div class="title_search"
+			style="text-align: left; border: 1px solid #dcdcdc;">
+			统计结果
+		</div>
+		<div class="content">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0"
+				class="data_table">
+				<tbody>
+					<tr>
+						<th style="width: 10%;">区域</th>
+							<th style="width: 20%;">销售楼号</th>
+						<th style="width: 10%;">成交套数</th>
+						<th style="width: 10%;">成交面积</th>
+						<th style="width: 10%;">成交均价</th>
+					</tr>
+					 					<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">大安·书香世家15号楼</div></td>
+						<td><div align="center">2</div></td>
+						<td><div align="center">230.2</div></td>
+						<td><div align="center">5315.8</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">上峪村旧村改造开发部分（卧龙大观）B14号楼</div></td>
+						<td><div align="center">2</div></td>
+						<td><div align="center">243.48</div></td>
+						<td><div align="center">11068.95</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">大安·书香世家19号楼</div></td>
+						<td><div align="center">4</div></td>
+						<td><div align="center">485.3</div></td>
+						<td><div align="center">5310.68</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">御泉大院12号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">129.39</div></td>
+						<td><div align="center">17421.35</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">青春创业开发区天房美郡国际城B区10号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">107.84</div></td>
+						<td><div align="center">7141.44</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">中南世纪锦城一期4号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">137.75</div></td>
+						<td><div align="center">6711</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">鼎峰瑞岳住宅小区二期25号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">140.1</div></td>
+						<td><div align="center">17250.36</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">鲁商中心D-03地块G9号楼G9号楼</div></td>
+						<td><div align="center">9</div></td>
+						<td><div align="center">1055.36</div></td>
+						<td><div align="center">7634.1</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">青春创业开发区天房美郡国际城B区29号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">126.62</div></td>
+						<td><div align="center">7215.17</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">泰豪名城1号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">93.69</div></td>
+						<td><div align="center">6350.01</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">圣源华郡2号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">102.52</div></td>
+						<td><div align="center">17947.72</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">御泉大院5号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">130.53</div></td>
+						<td><div align="center">8039.17</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">嘉源居1号楼</div></td>
+						<td><div align="center">7</div></td>
+						<td><div align="center">858.27</div></td>
+						<td><div align="center">4043.02</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">泰山·天竹佳苑6号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">116.85</div></td>
+						<td><div align="center">7387</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">嘉源居2号楼</div></td>
+						<td><div align="center">37</div></td>
+						<td><div align="center">4209.65</div></td>
+						<td><div align="center">3972.22</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">绿地·云水谣2-6号楼</div></td>
+						<td><div align="center">3</div></td>
+						<td><div align="center">458.61</div></td>
+						<td><div align="center">8624.96</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">御泉大院1号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">124.02</div></td>
+						<td><div align="center">10127.1</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">大安·书香世家住宅小区6号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">111.23</div></td>
+						<td><div align="center">3921.98</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">绿地·云水谣2-3号楼</div></td>
+						<td><div align="center">7</div></td>
+						<td><div align="center">976.25</div></td>
+						<td><div align="center">7237.2</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">中南世纪锦城3号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">128.84</div></td>
+						<td><div align="center">7743.64</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">圣山大厦C座</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">59.97</div></td>
+						<td><div align="center">6700</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">澎湖湾A区10号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">91.75</div></td>
+						<td><div align="center">4813.49</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">贤德苑住宅楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">99.7</div></td>
+						<td><div align="center">6018</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">泮河小镇3号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">94.52</div></td>
+						<td><div align="center">8085.95</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">华益·东方新苑8号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">96.55</div></td>
+						<td><div align="center">5500</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">绿地·云水谣2-4号楼</div></td>
+						<td><div align="center">3</div></td>
+						<td><div align="center">460.5</div></td>
+						<td><div align="center">6162.33</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">康平御园2号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">94.54</div></td>
+						<td><div align="center">6728.05</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">青春创业开发区天房美郡国际城B区12号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">107.84</div></td>
+						<td><div align="center">5755.3</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">泺亨国际居住区7号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">87.21</div></td>
+						<td><div align="center">6070.67</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">灵山大街以北、泮河西路以西V18号楼</div></td>
+						<td><div align="center">2</div></td>
+						<td><div align="center">243.02</div></td>
+						<td><div align="center">10138.53</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">御泉大院6号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">133.89</div></td>
+						<td><div align="center">8470</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">绿地·云水谣2-5号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">104.82</div></td>
+						<td><div align="center">5460</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">春风十里6号楼</div></td>
+						<td><div align="center">2</div></td>
+						<td><div align="center">244.34</div></td>
+						<td><div align="center">5901.78</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">绿地公馆二组团2-3号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">133.04</div></td>
+						<td><div align="center">6100</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">泰山公馆1号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">96.49</div></td>
+						<td><div align="center">7495</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">青春创业开发区天房美郡国际城B区20号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">107.02</div></td>
+						<td><div align="center">5139.23</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">泰山清水湾D2号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">308.04</div></td>
+						<td><div align="center">7000</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">正嘉馨居1号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">96.75</div></td>
+						<td><div align="center">6323</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">大安·书香世家14号楼</div></td>
+						<td><div align="center">2</div></td>
+						<td><div align="center">230.5</div></td>
+						<td><div align="center">5408.13</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">鼎峰瑞岳住宅小区二期28号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">127.65</div></td>
+						<td><div align="center">17974.67</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">中南世纪锦城6号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">134.38</div></td>
+						<td><div align="center">7463.23</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">绿地·云水谣1-7号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">133.44</div></td>
+						<td><div align="center">9600</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">嘉业·泰然居15号楼</div></td>
+						<td><div align="center">2</div></td>
+						<td><div align="center">238.16</div></td>
+						<td><div align="center">5591.09</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">大展鸿府1号楼</div></td>
+						<td><div align="center">2</div></td>
+						<td><div align="center">203.8</div></td>
+						<td><div align="center">6928.33</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">天颐湖蓝庭公馆14号楼</div></td>
+						<td><div align="center">4</div></td>
+						<td><div align="center">432.18</div></td>
+						<td><div align="center">4511.22</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">上峪村旧村改造开发部分（卧龙大观）B17号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">139.47</div></td>
+						<td><div align="center">12186.4</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">泰山国际金融中心C栋住宅楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">40.98</div></td>
+						<td><div align="center">9329.99</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">大安·书香世家22号楼</div></td>
+						<td><div align="center">3</div></td>
+						<td><div align="center">344.43</div></td>
+						<td><div align="center">5991.16</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">青春创业开发区天房美郡国际城B区13号楼</div></td>
+						<td><div align="center">1</div></td>
+						<td><div align="center">107.84</div></td>
+						<td><div align="center">5876.34</div></td>
+					</tr>
+										<tr height="25" bgcolor="#eeeeee" align="center">
+						<td><div align="center">泰安市</div></td>
+						<td><div align="center">大安·书香世家12号楼</div></td>
+						<td><div align="center">2</div></td>
+						<td><div align="center">229.44</div></td>
+						<td><div align="center">5217.05</div></td>
+					</tr>
+					 
+				</tbody>
+			</table>
+		</div>
+	</div>
+
+	</tbody>
+	</table>
+</body>
+</html>
